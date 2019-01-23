@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BasicWear.label>기본 의상</DR_BasicWear.label>
+  <DR_BasicWear.description>드라고니안들이 입고 다니는 의상입니다. 아직까지도 야생에서 어떻게 저런 의류를 만들어 입고 다니는 지 밝혀지지 않았습니다.</DR_BasicWear.description>
+
+  <DR_BasicDress.label>기본 드레스</DR_BasicDress.label>
+  <DR_BasicDress.description>리본으로 장식된 의상입니다. 아직까지도 야생에서 어떻게 저런 의류를 만들어 입고 다니는 지 밝혀지지 않았습니다.</DR_BasicDress.description>
+
+  <DR_GreekDress.label>DR 드레스 A</DR_GreekDress.label>
+  <DR_GreekDress.description>끈으로 묶은 의상입니다.</DR_GreekDress.description>
+
+  <DR_GreekHanZo.label>DR 드레스 B</DR_GreekHanZo.label>
+  <DR_GreekHanZo.description>한쪽만 걸친 의상입니다.</DR_GreekHanZo.description>
+
+  <DR_GreekPriest.label>DR 드레스 C</DR_GreekPriest.label>
+  <DR_GreekPriest.description>긴 천으로 묶은 의상입니다.</DR_GreekPriest.description>
+
+  <DR_GreekSexyDress.label>DR 드레스 D</DR_GreekSexyDress.label>
+  <DR_GreekSexyDress.description>두갈래의 천으로 묶은 의상입니다.</DR_GreekSexyDress.description>
+
+  <DR_GreekString.label>DR 드레스 E</DR_GreekString.label>
+  <DR_GreekString.description>끈으로 묶은 의상입니다.</DR_GreekString.description>
+
+  <DR_JapaneseDress.label>DR 드레스 F</DR_JapaneseDress.label>
+  <DR_JapaneseDress.description>전신을 감싼 의상입니다.</DR_JapaneseDress.description>
+
+  <DR_Hat.label>꽃 장식</DR_Hat.label>
+  <DR_Hat.description>머리에 꽂을 수 있는 꽃 장식입니다.</DR_Hat.description>
+
+  <DR_JapanHairAcc.label>악세사리</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.description>머리에 꽂을 수 잇는 장식입니다.</DR_JapanHairAcc.description>
+
+
+</LanguageData>

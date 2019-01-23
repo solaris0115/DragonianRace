@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_WildChild.title>Dragonian wild born</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>wild born</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef] is wild dragonian.</Dragonian_WildChild.baseDescription>
+
+  <Dragonian_Wild.title>Wild Dragonian</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>Wild Dragonian</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef] is wild dragonian</Dragonian_Wild.baseDescription>
+
+  <Dragonian_SlaveChild.title>Abandoned Dragonian</Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.titleShort>abandoned</Dragonian_SlaveChild.titleShort>
+  <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef] is a dragonian raised by human hands.</Dragonian_SlaveChild.baseDescription>
+
+  <Dragonian_Slave.title>Abandoned Dragonian</Dragonian_Slave.title>
+  <Dragonian_Slave.titleShort>abandoned</Dragonian_Slave.titleShort>
+  <Dragonian_Slave.baseDescription>[PAWN_nameDef] is a dragonian raised by human hands.</Dragonian_Slave.baseDescription>
+
+
+</LanguageData>

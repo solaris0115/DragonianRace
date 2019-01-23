@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InstallFakeTail.label>가짜 꼬리 설치</InstallFakeTail.label>
+  <InstallFakeTail.description>가짜 꼬리를 설치합니다.</InstallFakeTail.description>
+  <InstallFakeTail.jobString>가짜 꼬리 설치 중.</InstallFakeTail.jobString>
+
+  <InstallBionicTail.label>생체공학 꼬리 설치</InstallBionicTail.label>
+  <InstallBionicTail.description>생체공학 꼬리를 설치합니다.</InstallBionicTail.description>
+  <InstallBionicTail.jobString>생체공학 꼬리 설치 중</InstallBionicTail.jobString>
+
+
+</LanguageData>

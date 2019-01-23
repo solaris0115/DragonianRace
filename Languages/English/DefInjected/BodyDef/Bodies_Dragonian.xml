@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian.label>Dragonian</Dragonian.label>
+  <Dragonian.corePart.parts.3.customLabel>tail</Dragonian.corePart.parts.3.customLabel>
+  <Dragonian.corePart.parts.7.customLabel>left lung</Dragonian.corePart.parts.7.customLabel>
+  <Dragonian.corePart.parts.8.customLabel>right lung</Dragonian.corePart.parts.8.customLabel>
+  <Dragonian.corePart.parts.9.customLabel>left kidney</Dragonian.corePart.parts.9.customLabel>
+  <Dragonian.corePart.parts.10.customLabel>right kidney</Dragonian.corePart.parts.10.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.1.customLabel>left eye</Dragonian.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.2.customLabel>right eye</Dragonian.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.3.customLabel>left ear</Dragonian.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.4.customLabel>right ear</Dragonian.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Dragonian.corePart.parts.13.customLabel>left shoulder</Dragonian.corePart.parts.13.customLabel>
+  <Dragonian.corePart.parts.13.parts.0.customLabel>left clavicle</Dragonian.corePart.parts.13.parts.0.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.customLabel>left arm</Dragonian.corePart.parts.13.parts.1.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.0.customLabel>left humerus</Dragonian.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.1.customLabel>left radius</Dragonian.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.customLabel>left hand</Dragonian.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>left pinky</Dragonian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>left ring finger</Dragonian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>left middle finger</Dragonian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>left index finger</Dragonian.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>left thumb</Dragonian.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Dragonian.corePart.parts.14.customLabel>right shoulder</Dragonian.corePart.parts.14.customLabel>
+  <Dragonian.corePart.parts.14.parts.0.customLabel>right clavicle</Dragonian.corePart.parts.14.parts.0.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.customLabel>right arm</Dragonian.corePart.parts.14.parts.1.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.0.customLabel>right humerus</Dragonian.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.1.customLabel>right radius</Dragonian.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.customLabel>right hand</Dragonian.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>right pinky</Dragonian.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>right ring finger</Dragonian.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>right middle finger</Dragonian.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>right index finger</Dragonian.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>right thumb</Dragonian.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Dragonian.corePart.parts.16.customLabel>left leg</Dragonian.corePart.parts.16.customLabel>
+  <Dragonian.corePart.parts.16.parts.0.customLabel>left femur</Dragonian.corePart.parts.16.parts.0.customLabel>
+  <Dragonian.corePart.parts.16.parts.1.customLabel>left tibia</Dragonian.corePart.parts.16.parts.1.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.customLabel>left foot</Dragonian.corePart.parts.16.parts.2.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.0.customLabel>left little toe</Dragonian.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.1.customLabel>left fourth toe</Dragonian.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.2.customLabel>left middle toe</Dragonian.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.3.customLabel>left second toe</Dragonian.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.4.customLabel>left big toe</Dragonian.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Dragonian.corePart.parts.17.customLabel>right leg</Dragonian.corePart.parts.17.customLabel>
+  <Dragonian.corePart.parts.17.parts.0.customLabel>right femur</Dragonian.corePart.parts.17.parts.0.customLabel>
+  <Dragonian.corePart.parts.17.parts.1.customLabel>right tibia</Dragonian.corePart.parts.17.parts.1.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.customLabel>right foot</Dragonian.corePart.parts.17.parts.2.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.0.customLabel>right little toe</Dragonian.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.1.customLabel>right fourth toe</Dragonian.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.2.customLabel>right middle toe</Dragonian.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.3.customLabel>right second toe</Dragonian.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.4.customLabel>right big toe</Dragonian.corePart.parts.17.parts.2.parts.4.customLabel>
+
+
+</LanguageData>

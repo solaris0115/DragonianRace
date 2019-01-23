@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<PawnKindDef>
+		<defName>Dragonian</defName>
+		<label>dragonian</label>
+		<isFighter>false</isFighter>
+		<combatPower>60</combatPower>
+		<itemQuality>Poor</itemQuality>
+		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+		<forceNormalGearQuality>true</forceNormalGearQuality>
+		<backstoryCategories>
+			<li>DragonianStory</li>
+		</backstoryCategories>
+		<race>Dragonian</race>
+		<baseRecruitDifficulty>0.20</baseRecruitDifficulty>
+		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+		<defaultFactionType>OutlanderCivil</defaultFactionType>
+		<apparelMoney>
+			<min>1200</min>
+			<max>1200</max>
+		</apparelMoney>
+		<apparelTags>
+			<li>DR_Apparel</li>
+			<li>DR_Basic</li>
+		</apparelTags>	
+		<invNutrition>1</invNutrition>
+		<apparelAllowHeadgearChance>0.0</apparelAllowHeadgearChance>
+	</PawnKindDef>
+	<PawnKindDef>
+		<defName>WildMan</defName>
+		<label>wild dragonian</label>
+		<labelPlural>wild dragonian</labelPlural>
+		<labelFemale>wild dragonian</labelFemale>
+		<labelFemalePlural>wild dragonian</labelFemalePlural>
+		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+		<forceNormalGearQuality>true</forceNormalGearQuality>
+		<combatPower>60</combatPower>
+		<itemQuality>Poor</itemQuality>
+		<race>Dragonian</race>
+		<backstoryCategories>
+			<li>DragonianStory</li>
+		</backstoryCategories>
+		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+		<baseRecruitDifficulty>0.50</baseRecruitDifficulty>
+		<apparelMoney>
+			<min>1200</min>
+			<max>1200</max>
+		</apparelMoney>
+		<apparelTags>
+			<li>DR_Basic</li>
+		</apparelTags>	
+	</PawnKindDef>
+</Defs>

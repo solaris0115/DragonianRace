@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Dragonian Race</name>
+	<author>Gloomylynx NukaFrog</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>
+Playable Dragonian
+- Appeared only slave and wildman
+- Good at melee combat
+- Strong Body (resilience, resistance)
+- Low working speed, high yield
+- Can milking, shearing
+	</description>
+</ModMetaData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DragonianlikeBaby.label>baby</DragonianlikeBaby.label>
+  <DragonianlikeToddler.label>toddler</DragonianlikeToddler.label>
+  <DragonianlikeChild.label>child</DragonianlikeChild.label>
+
+  <DragonianlikeTeenager.label>teenager</DragonianlikeTeenager.label>
+  <DragonianlikeTeenager.adjective>teenage</DragonianlikeTeenager.adjective>
+
+  <DragonianlikeAdult.label>adult</DragonianlikeAdult.label>
+
+
+</LanguageData>

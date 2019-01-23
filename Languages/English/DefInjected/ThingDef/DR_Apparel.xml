@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BasicWear.label>Basic Wear</DR_BasicWear.label>
+  <DR_BasicWear.description>It's Basic wear of Dragonian. It is still unclear how they dress up and make it.</DR_BasicWear.description>
+
+  <DR_BasicDress.label>basic dress</DR_BasicDress.label>
+  <DR_BasicDress.description>Dress decorated with ribbon and flowers. Breasts are clearly exposed.</DR_BasicDress.description>
+
+  <DR_GreekDress.label>dress A</DR_GreekDress.label>
+  <DR_GreekDress.description>It's a dress tied with a string.</DR_GreekDress.description>
+
+  <DR_GreekHanZo.label>dress B</DR_GreekHanZo.label>
+  <DR_GreekHanZo.description>It is a dress worn over only one side.</DR_GreekHanZo.description>
+
+  <DR_GreekPriest.label>dress C</DR_GreekPriest.label>
+  <DR_GreekPriest.description>It is a dress that is dressed back and forth.</DR_GreekPriest.description>
+
+  <DR_GreekSexyDress.label>dress D</DR_GreekSexyDress.label>
+  <DR_GreekSexyDress.description>It is a bifurcated suit.</DR_GreekSexyDress.description>
+
+  <DR_GreekString.label>dress E</DR_GreekString.label>
+  <DR_GreekString.description>It is dress fixed with strings.</DR_GreekString.description>
+
+  <DR_JapaneseDress.label>dress F</DR_JapaneseDress.label>
+  <DR_JapaneseDress.description>The dress is surrounded by cloth.</DR_JapaneseDress.description>
+
+  <DR_Hat.label>flower deco</DR_Hat.label>
+  <DR_Hat.description>Flower shape hair ornament.</DR_Hat.description>
+
+  <DR_JapanHairAcc.label>Japanese style hair acc</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.description>Japanese hair ornaments.</DR_JapanHairAcc.description>
+
+
+</LanguageData>

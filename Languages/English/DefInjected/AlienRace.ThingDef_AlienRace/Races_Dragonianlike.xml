@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian.label>Dragonian</Dragonian.label>
+  <Dragonian.description>A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.</Dragonian.description>
+  <Dragonian.tools.0.label>teeth</Dragonian.tools.0.label>
+  <Dragonian.tools.1.label>left fist</Dragonian.tools.1.label>
+  <Dragonian.tools.2.label>right fist</Dragonian.tools.2.label>
+  <Dragonian.tools.3.label>tail</Dragonian.tools.3.label>
+
+
+</LanguageData>

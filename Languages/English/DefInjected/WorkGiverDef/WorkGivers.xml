@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkDragonian.label>milk dragonian</MilkDragonian.label>
+  <MilkDragonian.verb>milk</MilkDragonian.verb>
+  <MilkDragonian.gerund>milking</MilkDragonian.gerund>
+
+  <ShearDragonian.label>shear dragonian</ShearDragonian.label>
+  <ShearDragonian.verb>shear</ShearDragonian.verb>
+  <ShearDragonian.gerund>shearing</ShearDragonian.gerund>
+
+
+</LanguageData>
