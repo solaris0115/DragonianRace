@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian.label>ドラコニアン</Dragonian.label>
+  <Dragonian.description>人間とドラゴンの特徴を持った美しい生命体です。主に野外で目撃されます。その銀色髪の毛は、高い強度と柔らかさによって闇市場で高く取引されており、多くの場合、密猟者たたちの標的にされたりします。</Dragonian.description>
+  <Dragonian.tools.teeth.label>歯</Dragonian.tools.teeth.label>
+  <Dragonian.tools.left_fist.label>左こぶし</Dragonian.tools.left_fist.label>
+  <Dragonian.tools.right_fist.label>右こぶし</Dragonian.tools.right_fist.label>
+  <Dragonian.tools.tail.label>尻尾</Dragonian.tools.tail.label>
+
+</LanguageData>

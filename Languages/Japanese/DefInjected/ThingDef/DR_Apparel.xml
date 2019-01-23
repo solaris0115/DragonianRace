@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BasicWear.label>DR 普通の服</DR_BasicWear.label>
+  <DR_BasicWear.description>ドラコニアンの一般的な衣装です。彼らがどのように服を作ったり着ているのか、詳しく判っていません。</DR_BasicWear.description>
+
+  <DR_BasicDress.label>DR 普通のドレス</DR_BasicDress.label>
+  <DR_BasicDress.description>リボンと花で装飾されたドレスです。彼らが野外でどうやって服を作ったり着ているのか、詳しく判っていません。</DR_BasicDress.description>
+
+  <DR_GreekDress.label>DR ドレスA</DR_GreekDress.label>
+  <DR_GreekDress.description>ひもで結んだ衣装です。</DR_GreekDress.description>
+
+  <DR_GreekHanZo.label>DR ドレスB</DR_GreekHanZo.label>
+  <DR_GreekHanZo.description>片方の肩から掛けている衣装です。</DR_GreekHanZo.description>
+
+  <DR_GreekPriest.label>DR ドレスC</DR_GreekPriest.label>
+  <DR_GreekPriest.description>体の前と後ろで長い布で覆われている衣装です。</DR_GreekPriest.description>
+
+  <DR_GreekSexyDress.label>DR ドレスD</DR_GreekSexyDress.label>
+  <DR_GreekSexyDress.description>2枚の布で覆った衣装です。</DR_GreekSexyDress.description>
+
+  <DR_GreekString.label>DR ドレスE</DR_GreekString.label>
+  <DR_GreekString.description>帯の代わりにひもで固定した衣装です。</DR_GreekString.description>
+
+  <DR_JapaneseDress.label>DR ドレスF</DR_JapaneseDress.label>
+  <DR_JapaneseDress.description>全身を覆う衣装です。</DR_JapaneseDress.description>
+
+  <DR_Hat.label>花飾り</DR_Hat.label>
+  <DR_Hat.description>花の形をした髪飾りです。</DR_Hat.description>
+
+  <DR_JapanHairAcc.label>かんざし</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.description>頭に差し込んで使う髪飾りです。</DR_JapanHairAcc.description>
+
+</LanguageData>

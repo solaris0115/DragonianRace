@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FakeTail.label>ニセ尻尾</FakeTail.label>
+  <FakeTail.description>革で作る偽物のドラコニアン用尻尾です。</FakeTail.description>
+
+  <BionicTail.label>強化尻尾</BionicTail.label>
+  <BionicTail.description>高性能な人工的な尻尾です。自動的に装着者の歩行バランスをサポートする小さなAIが内蔵されています。</BionicTail.description>
+
+</LanguageData>
