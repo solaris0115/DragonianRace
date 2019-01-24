@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DragonianSlave.label>ドラコニアン奴隷</DragonianSlave.label>
-  <DragonianSlave.labelPlural>ドラコニアン奴隷たち</DragonianSlave.labelPlural>
-  <DragonianSlave.labelMale>ドラコニアンの男性奴隷</DragonianSlave.labelMale>
-  <DragonianSlave.labelMalePlural>ドラコニアンの男性奴隷たち</DragonianSlave.labelMalePlural>
-  <DragonianSlave.labelFemale>ドラコニアンの女性奴隷</DragonianSlave.labelFemale>
-  <DragonianSlave.labelFemalePlural>ドラコニアンの女性奴隷たち</DragonianSlave.labelFemalePlural>
+  <Dragonian.label>ドラコニアン</Dragonian.label>
+  <Dragonian.labelPlural>ドラコニアンたち</Dragonian.labelPlural>
+  <Dragonian.labelMale>ドラコニアンの男性</Dragonian.labelMale>
+  <Dragonian.labelMalePlural>ドラコニアンの男性たち</Dragonian.labelMalePlural>
+  <Dragonian.labelFemale>ドラコニアンの女性</Dragonian.labelFemale>
+  <Dragonian.labelFemalePlural>ドラコニアンの女性たち</Dragonian.labelFemalePlural>
 
   <!--[Core] <WildMan.label>野蛮人</WildMan.label>-->
   <!--[Core] <WildMan.labelPlural>野蛮人たち</WildMan.labelPlural>-->
