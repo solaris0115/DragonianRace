@@ -1,6 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 	<HairDef>
+		<defName>DR_TwinDownBindFront</defName>
+		<label>twin down bind(front)</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_TwinDownBindFront</texPath>
+		<hairTags>
+			<li>DR_Hair</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_TwinDownBindBoth</defName>
+		<label>twin down bind</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_TwinDownBindBoth</texPath>
+		<hairTags>
+			<li>DR_Hair</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_TwinDownBindBack</defName>
+		<label>twin down bind(back)</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_TwinDownBindBack</texPath>
+		<hairTags>
+			<li>DR_Hair</li>
+		</hairTags>
+	</HairDef>
+	<HairDef>
 		<defName>DR_Twintail</defName>
 		<label>twin tail</label>
 		<hairGender>Female</hairGender>

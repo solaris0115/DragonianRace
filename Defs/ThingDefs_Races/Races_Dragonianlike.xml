@@ -21,7 +21,7 @@
 					</alienbodytypes>
 					<headOffset>(0, -0.1)</headOffset>	
 					<useGenderedHeads>false</useGenderedHeads>
-					<customDrawSize>(1.1, 1.1)</customDrawSize>
+					<customDrawSize>(1, 1)</customDrawSize>
 					<customPortraitDrawSize>(0.95, 0.95)</customPortraitDrawSize>
 					<!--색상관련 -->
 					<alienskincolorgen Class="ColorGenerator_Options">
@@ -77,6 +77,10 @@
 					<li>DR_JapaneseDress</li>
 					<li>DR_Hat</li>
 					<li>DR_JapanHairAcc</li>
+					<li>DR_Necklace</li>
+					<li>DR_BellNecklace</li>
+					<li>DR_SunHat</li>
+					<li>DR_Onepiece</li>
 				</apparelList>
 				<whiteApparelList>
 					<li>Apparel_ShieldBelt</li>
