@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- Apparel -->
+
   <DR_BasicWear.label>DR 普通の服</DR_BasicWear.label>
   <DR_BasicWear.description>ドラコニアンの一般的な衣装です。彼らがどのように服を作ったり着ているのか、詳しく判っていません。</DR_BasicWear.description>
 
@@ -25,10 +27,31 @@
   <DR_JapaneseDress.label>DR ドレスF</DR_JapaneseDress.label>
   <DR_JapaneseDress.description>全身を覆う衣装です。</DR_JapaneseDress.description>
 
+
+  <!-- Add Apparel -->
+
+  <DR_Onepiece.label>DR ドレスH</DR_Onepiece.label>
+  <DR_Onepiece.description>横もあるワンピースです。</DR_Onepiece.description>
+
+
+  <!-- Hat -->
+
   <DR_Hat.label>花飾り</DR_Hat.label>
   <DR_Hat.description>花の形をした髪飾りです。</DR_Hat.description>
 
   <DR_JapanHairAcc.label>かんざし</DR_JapanHairAcc.label>
   <DR_JapanHairAcc.description>頭に差し込んで使う髪飾りです。</DR_JapanHairAcc.description>
+
+
+  <!-- Added hat -->
+
+  <DR_Necklace.label>鈴付きの首輪</DR_Necklace.label>
+  <DR_Necklace.description>鈴の付いた首輪です。</DR_Necklace.description>
+
+  <DR_BellNecklace.label>鈴付きのネックレス</DR_BellNecklace.label>
+  <DR_BellNecklace.description>鈴の付いたネックレスです。</DR_BellNecklace.description>
+
+  <DR_SunHat.label>花飾りついた帽子</DR_SunHat.label>
+  <DR_SunHat.description>花飾りついたエレガントな帽子です。</DR_SunHat.description>
 
 </LanguageData>
