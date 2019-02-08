@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+	<!-- 기본 -->
 	<ThingDef Class="Dragonian.CustomThingDef" Name="DR_ApparelBase" Abstract="True">	
 		<followStuffColor>false</followStuffColor>
 		<thingClass>Apparel</thingClass>
@@ -57,7 +58,7 @@
 		</thingCategories>
 	</ThingDef>
 
-
+	<!-- 의상 -->
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_ApparelMakeableBase">
 		<defName>DR_BasicWear</defName>
 		<label>Basic Wear</label>
@@ -150,8 +151,7 @@
 			</tags>
 		</apparel>
 	</ThingDef>
-	
-	
+		
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_ApparelMakeableBase">
 		<defName>DR_GreekDress</defName>
 		<label>dress A</label>
@@ -387,7 +387,6 @@
 			</tags>
 		</apparel>
 	</ThingDef>
-	
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_ApparelMakeableBase">
 		<defName>DR_JapaneseDress</defName>
 		<label>dress F</label>
@@ -435,7 +434,56 @@
 			</tags>
 		</apparel>
 	</ThingDef>
-
+	<!-- 추가 -->
+	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_ApparelMakeableBase">
+		<defName>DR_Onepiece</defName>
+		<label>dress H</label>
+		<description>The dress has a side.</description>
+		<graphicData>
+			<texPath>Apparel/DR_Onepiece</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<statBases>
+			<WorkToMake>8500</WorkToMake>
+			<Mass>0.15</Mass>
+			<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.30</StuffEffectMultiplierInsulation_Heat>			
+			<ArmorRating_Sharp>0.6</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.4</ArmorRating_Blunt>
+			<EquipDelay>1.5</EquipDelay>
+		</statBases>		
+		<costStuffCount>45</costStuffCount>
+		<stuffCategories>
+			<li>Fabric</li>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costList>
+			<WoolDragonian>80</WoolDragonian>
+		</costList>
+		<thingCategories>
+			<li>Apparel</li>
+		</thingCategories>
+		<apparel>
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Legs</li>
+			</bodyPartGroups>
+			<defaultOutfitTags>
+				<li>Worker</li>
+			</defaultOutfitTags>
+			<wornGraphicPath>Apparel/DR_Onepiece</wornGraphicPath>
+			<layers>
+				<li>OnSkin</li>
+			</layers>
+			<tags>
+				<li>DR_Apparel</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+	
+	<!-- 모자 -->
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
 		<defName>DR_Hat</defName>
 		<label>flower deco</label>
@@ -501,6 +549,130 @@
 				<li>UpperHead</li>
 			</bodyPartGroups>
 			<wornGraphicPath>Apparel/DR_JapanHairAcc</wornGraphicPath>
+			<layers>
+				<li>Overhead</li>
+			</layers>
+			<defaultOutfitTags>
+				<li>Worker</li>
+			</defaultOutfitTags>
+			<tags>
+				<li>DR_Apparel</li>
+			</tags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(1,1,1,1)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+	<!-- 추가 -->
+	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
+		<defName>DR_Necklace</defName>
+		<label>flower deco</label>
+		<description>Flower shape hair ornament.</description>
+		<graphicData>
+			<texPath>Apparel/DR_Necklace</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<costList>
+			<WoolDragonian>30</WoolDragonian>
+		</costList>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToMake>1800</WorkToMake>
+			<Mass>0.1</Mass>
+		</statBases>
+		<apparel>
+			<bodyPartGroups>
+				<li>Neck</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Apparel/DR_Necklace</wornGraphicPath>
+			<layers>
+				<li>Shell</li>
+			</layers>
+			<defaultOutfitTags>
+				<li>Worker</li>
+			</defaultOutfitTags>
+			<tags>
+				<li>DR_Apparel</li>
+			</tags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(1,1,1,1)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
+		<defName>DR_BellNecklace</defName>
+		<label>flower deco</label>
+		<description>Flower shape hair ornament.</description>
+		<graphicData>
+			<texPath>Apparel/DR_BellNecklace</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<costList>
+			<WoolDragonian>30</WoolDragonian>
+		</costList>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToMake>1800</WorkToMake>
+			<Mass>0.1</Mass>
+		</statBases>
+		<apparel>
+			<bodyPartGroups>
+				<li>Neck</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Apparel/DR_BellNecklace</wornGraphicPath>
+			<layers>
+				<li>Shell</li>
+			</layers>
+			<defaultOutfitTags>
+				<li>Worker</li>
+			</defaultOutfitTags>
+			<tags>
+				<li>DR_Apparel</li>
+			</tags>
+		</apparel>
+		<colorGenerator Class="ColorGenerator_Options">
+			<options>
+				<li>
+					<weight>10</weight>
+					<only>(1,1,1,1)</only>
+				</li>
+			</options>
+		</colorGenerator>
+	</ThingDef>
+	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
+		<defName>DR_SunHat</defName>
+		<label>flower deco</label>
+		<description>Flower shape hair ornament.</description>
+		<graphicData>
+			<texPath>Apparel/DR_SunHat</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<costList>
+			<WoolDragonian>30</WoolDragonian>
+		</costList>
+		<statBases>
+			<MaxHitPoints>75</MaxHitPoints>
+			<WorkToMake>1800</WorkToMake>
+			<Mass>0.1</Mass>
+		</statBases>
+		<apparel>
+			<bodyPartGroups>
+				<li>UpperHead</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Apparel/DR_SunHat</wornGraphicPath>
 			<layers>
 				<li>Overhead</li>
 			</layers>
