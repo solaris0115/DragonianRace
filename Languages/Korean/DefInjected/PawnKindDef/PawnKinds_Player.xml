@@ -8,5 +8,12 @@
   <Dragonian.labelFemale>드라고니안</Dragonian.labelFemale>
   <Dragonian.labelFemalePlural>드라고니안들</Dragonian.labelFemalePlural>
 
+  <!--[Core] <WildMan.label>야인</WildMan.label>-->
+  <!--[Core] <WildMan.labelPlural>야인</WildMan.labelPlural>-->
+  <!--[Core] <WildMan.labelMale>야인 남성</WildMan.labelMale>-->
+  <!--[Core] <WildMan.labelMalePlural>야인 남성</WildMan.labelMalePlural>-->
+  <!--[Core] <WildMan.labelFemale>야인 여성</WildMan.labelFemale>-->
+  <!--[Core] <WildMan.labelFemalePlural>야인 여성들</WildMan.labelFemalePlural>-->
+
 
 </LanguageData>

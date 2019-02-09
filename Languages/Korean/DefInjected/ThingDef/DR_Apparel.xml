@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- 의상 -->
+
   <DR_BasicWear.label>기본 의상</DR_BasicWear.label>
   <DR_BasicWear.description>드라고니안들이 입고 다니는 의상입니다. 아직까지도 야생에서 어떻게 저런 의류를 만들어 입고 다니는 지 밝혀지지 않았습니다.</DR_BasicWear.description>
 
@@ -25,11 +27,32 @@
   <DR_JapaneseDress.label>DR 드레스 F</DR_JapaneseDress.label>
   <DR_JapaneseDress.description>전신을 감싼 의상입니다.</DR_JapaneseDress.description>
 
+
+  <!-- 추가 -->
+
+  <DR_Onepiece.label>DR 드레스 G</DR_Onepiece.label>
+  <DR_Onepiece.description>The dress has a side.</DR_Onepiece.description>
+
+
+  <!-- 모자 -->
+
   <DR_Hat.label>꽃 장식</DR_Hat.label>
   <DR_Hat.description>머리에 꽂을 수 있는 꽃 장식입니다.</DR_Hat.description>
 
   <DR_JapanHairAcc.label>악세사리</DR_JapanHairAcc.label>
   <DR_JapanHairAcc.description>머리에 꽂을 수 잇는 장식입니다.</DR_JapanHairAcc.description>
+
+
+  <!-- 추가 -->
+
+  <DR_Necklace.label>목걸이</DR_Necklace.label>
+  <DR_Necklace.description>방울이 달린 목걸이 입니다.</DR_Necklace.description>
+
+  <DR_BellNecklace.label>목걸이 (방울)</DR_BellNecklace.label>
+  <DR_BellNecklace.description>방울이 달린 목걸이 입니다.</DR_BellNecklace.description>
+
+  <DR_SunHat.label>넓은챙 모자</DR_SunHat.label>
+  <DR_SunHat.description>태양을 가려줄 챙이 넓은 모자입니다.</DR_SunHat.description>
 
 
 </LanguageData>

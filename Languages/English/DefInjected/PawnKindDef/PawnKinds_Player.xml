@@ -8,6 +8,12 @@
   <Dragonian.labelFemale>female dragonian</Dragonian.labelFemale>
   <Dragonian.labelFemalePlural>female dragonians</Dragonian.labelFemalePlural>
 
+  <!--[Core] <WildMan.label>wild man</WildMan.label>-->
+  <!--[Core] <WildMan.labelPlural>wild men</WildMan.labelPlural>-->
+  <!--[Core] <WildMan.labelMale>male wild man</WildMan.labelMale>-->
+  <!--[Core] <WildMan.labelMalePlural>male wild men</WildMan.labelMalePlural>-->
+  <!--[Core] <WildMan.labelFemale>wild woman</WildMan.labelFemale>-->
+  <!--[Core] <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>-->
 
 
 </LanguageData>

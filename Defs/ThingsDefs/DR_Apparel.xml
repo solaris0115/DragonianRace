@@ -571,8 +571,8 @@
 	<!-- 추가 -->
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
 		<defName>DR_Necklace</defName>
-		<label>flower deco</label>
-		<description>Flower shape hair ornament.</description>
+		<label>necklace</label>
+		<description>It is a necklace with a bell.</description>
 		<graphicData>
 			<texPath>Apparel/DR_Necklace</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -612,8 +612,8 @@
 	</ThingDef>
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
 		<defName>DR_BellNecklace</defName>
-		<label>flower deco</label>
-		<description>Flower shape hair ornament.</description>
+		<label>necklace bell</label>
+		<description>It is a necklace with a bell.</description>
 		<graphicData>
 			<texPath>Apparel/DR_BellNecklace</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -653,8 +653,8 @@
 	</ThingDef>
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
 		<defName>DR_SunHat</defName>
-		<label>flower deco</label>
-		<description>Flower shape hair ornament.</description>
+		<label>sun Hat</label>
+		<description>It is a wide hat with a brim to cover the sun.</description>
 		<graphicData>
 			<texPath>Apparel/DR_SunHat</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
