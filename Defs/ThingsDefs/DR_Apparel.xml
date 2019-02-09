@@ -437,7 +437,7 @@
 	<!-- 추가 -->
 	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_ApparelMakeableBase">
 		<defName>DR_Onepiece</defName>
-		<label>dress H</label>
+		<label>dress G</label>
 		<description>The dress has a side.</description>
 		<graphicData>
 			<texPath>Apparel/DR_Onepiece</texPath>
