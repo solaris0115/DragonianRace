@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+G<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Apparel -->
@@ -30,7 +30,7 @@
 
   <!-- Add Apparel -->
 
-  <DR_Onepiece.label>DR ドレスH</DR_Onepiece.label>
+  <DR_Onepiece.label>DR ドレスG</DR_Onepiece.label>
   <DR_Onepiece.description>横もあるワンピースです。</DR_Onepiece.description>
 
 
