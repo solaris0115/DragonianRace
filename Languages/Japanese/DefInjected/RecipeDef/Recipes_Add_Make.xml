@@ -52,9 +52,9 @@
   <Make_DR_JapaneseDress.description>DR ドレスFを縫う。</Make_DR_JapaneseDress.description>
   <Make_DR_JapaneseDress.jobString>DR ドレスFを縫製中</Make_DR_JapaneseDress.jobString>
 
-  <Make_DR_Onepiece.label>DR ドレスHを縫う</Make_DR_Onepiece.label>
-  <Make_DR_Onepiece.description>DR ドレスHを縫う。</Make_DR_Onepiece.description>
-  <Make_DR_Onepiece.jobString>DR ドレスHを縫製中</Make_DR_Onepiece.jobString>
+  <Make_DR_Onepiece.label>DR ドレスGを縫う</Make_DR_Onepiece.label>
+  <Make_DR_Onepiece.description>DR ドレスGを縫う。</Make_DR_Onepiece.description>
+  <Make_DR_Onepiece.jobString>DR ドレスGを縫製中</Make_DR_Onepiece.jobString>
 
   <Make_DR_Hat.label>花飾りを縫う</Make_DR_Hat.label>
   <Make_DR_Hat.description>花飾りを縫う。</Make_DR_Hat.description>
