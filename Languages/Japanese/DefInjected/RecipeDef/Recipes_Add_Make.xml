@@ -27,7 +27,7 @@
   <Make_DR_BasicDress.label>DR 普通のドレスを縫う</Make_DR_BasicDress.label>
   <Make_DR_BasicDress.description>DR 普通のドレスを縫う。</Make_DR_BasicDress.description>
   <Make_DR_BasicDress.jobString>DR 普通のドレスを縫製中</Make_DR_BasicDress.jobString>
-
+G
   <Make_DR_GreekDress.label>DR ドレスAを縫う</Make_DR_GreekDress.label>
   <Make_DR_GreekDress.description>DR ドレスAを縫う。</Make_DR_GreekDress.description>
   <Make_DR_GreekDress.jobString>DR ドレスAを縫製中</Make_DR_GreekDress.jobString>
