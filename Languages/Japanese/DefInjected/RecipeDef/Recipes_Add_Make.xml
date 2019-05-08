@@ -6,16 +6,16 @@
 
   <!-- Recipe Users: TableMachining, ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_FakeTail.label>ニセ尻尾を縫う</Make_FakeTail.label>
-  <Make_FakeTail.description>ニセ尻尾を縫う。</Make_FakeTail.description>
-  <Make_FakeTail.jobString>ニセ尻尾を縫製中</Make_FakeTail.jobString>
+  <Make_DR_FakeTail.label>ニセ尻尾を縫う</Make_DR_FakeTail.label>
+  <Make_DR_FakeTail.description>ニセ尻尾を縫う。</Make_DR_FakeTail.description>
+  <Make_DR_FakeTail.jobString>ニセ尻尾を縫製中</Make_DR_FakeTail.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_BionicTail.label>強化尻尾を作る</Make_BionicTail.label>
-  <Make_BionicTail.description>強化尻尾を作る。</Make_BionicTail.description>
-  <Make_BionicTail.jobString>強化尻尾を製作中</Make_BionicTail.jobString>
+  <Make_DR_BionicTail.label>強化尻尾を作る</Make_DR_BionicTail.label>
+  <Make_DR_BionicTail.description>強化尻尾を作る。</Make_DR_BionicTail.description>
+  <Make_DR_BionicTail.jobString>強化尻尾を製作中</Make_DR_BionicTail.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->

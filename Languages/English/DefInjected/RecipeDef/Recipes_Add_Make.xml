@@ -6,16 +6,16 @@
 
   <!-- Recipe Users: TableMachining, ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_FakeTail.label>make fake tail</Make_FakeTail.label>
-  <Make_FakeTail.description>Make fake tail.</Make_FakeTail.description>
-  <Make_FakeTail.jobString>Making fake tail.</Make_FakeTail.jobString>
+  <Make_DR_FakeTail.label>make Dragonian fake tail</Make_DR_FakeTail.label>
+  <Make_DR_FakeTail.description>Make Dragonian fake tail.</Make_DR_FakeTail.description>
+  <Make_DR_FakeTail.jobString>Making Dragonian fake tail.</Make_DR_FakeTail.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_BionicTail.label>make bionic tail</Make_BionicTail.label>
-  <Make_BionicTail.description>Make bionic tail.</Make_BionicTail.description>
-  <Make_BionicTail.jobString>Making bionic tail.</Make_BionicTail.jobString>
+  <Make_DR_BionicTail.label>make Dragonian bionic tail</Make_DR_BionicTail.label>
+  <Make_DR_BionicTail.description>Make Dragonian bionic tail.</Make_DR_BionicTail.description>
+  <Make_DR_BionicTail.jobString>Making Dragonian bionic tail.</Make_DR_BionicTail.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->

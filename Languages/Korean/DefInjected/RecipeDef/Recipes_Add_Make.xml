@@ -6,16 +6,16 @@
 
   <!-- Recipe Users: TableMachining, ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_FakeTail.label>가짜 꼬리 제작 </Make_FakeTail.label>
-  <Make_FakeTail.description>가짜 꼬리 제작 합니다.</Make_FakeTail.description>
-  <Make_FakeTail.jobString>가짜 꼬리 제작 중</Make_FakeTail.jobString>
+  <Make_DR_FakeTail.label>드라고니안 가짜 꼬리 제작 </Make_DR_FakeTail.label>
+  <Make_DR_FakeTail.description>드라고니안 가짜 꼬리 제작 합니다.</Make_DR_FakeTail.description>
+  <Make_DR_FakeTail.jobString>드라고니안 가짜 꼬리 제작 중</Make_DR_FakeTail.jobString>
 
 
   <!-- Recipe Users: TableMachining, FabricationBench -->
 
-  <Make_BionicTail.label>생체공학 꼬리 제작 </Make_BionicTail.label>
-  <Make_BionicTail.description>생체공학 꼬리 제작 합니다.</Make_BionicTail.description>
-  <Make_BionicTail.jobString>생체공학 꼬리 제작 중</Make_BionicTail.jobString>
+  <Make_DR_BionicTail.label>드라고니안 생체공학 꼬리 제작 </Make_DR_BionicTail.label>
+  <Make_DR_BionicTail.description>드라고니안 생체공학 꼬리 제작 합니다.</Make_DR_BionicTail.description>
+  <Make_DR_BionicTail.jobString>드라고니안 생체공학 꼬리 제작 중</Make_DR_BionicTail.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->

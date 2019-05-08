@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BionicTail.label>생체공학 꼬리</BionicTail.label>
-  <BionicTail.labelNoun>생체공학 꼬리</BionicTail.labelNoun>
+  <DR_BionicTail.label>드라고니안 생체공학 꼬리</DR_BionicTail.label>
+  <DR_BionicTail.labelNoun>드라고니안 생체공학 꼬리</DR_BionicTail.labelNoun>
 
-  <FakeTail.label>가짜 꼬리</FakeTail.label>
-  <FakeTail.labelNoun>가짜 꼬리</FakeTail.labelNoun>
+  <DR_FakeTail.label>드라고니안 가짜 꼬리</DR_FakeTail.label>
+  <DR_FakeTail.labelNoun>드라고니안 가짜 꼬리</DR_FakeTail.labelNoun>
 
 
 </LanguageData>

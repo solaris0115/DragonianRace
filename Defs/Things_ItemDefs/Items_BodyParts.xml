@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<ThingDef ParentName="BodyPartProstheticBase">
-		<defName>FakeTail</defName>
+		<defName>DR_FakeTail</defName>
 		<label>fake tail</label>
 		<description>It is a fake tail made of leather.</description>
 		<techLevel>Medieval</techLevel>
@@ -23,7 +23,7 @@
 		</techHediffsTags>
 	</ThingDef>
 	<ThingDef ParentName="BodyPartBionicBase">
-		<defName>BionicTail</defName>
+		<defName>DR_BionicTail</defName>
 		<label>bionic tail</label>
 		<description>An advanced artificial tail. It also has a small AI that automatically balances the user's missing.</description>
 		<techLevel>Spacer</techLevel>

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FakeTail.label>fake tail</FakeTail.label>
-  <FakeTail.description>It is a fake tail made of leather.</FakeTail.description>
+  <DR_FakeTail.label>Dragonian fake tail</DR_FakeTail.label>
+  <DR_FakeTail.description>It is a fake Dragonian tail made of leather.</DR_FakeTail.description>
 
-  <BionicTail.label>bionic tail</BionicTail.label>
-  <BionicTail.description>An advanced artificial tail. It also has a small AI that automatically balances the user's missing.</BionicTail.description>
+  <DR_BionicTail.label>bionic tail</DR_BionicTail.label>
+  <DR_BionicTail.description>An advanced artificial Dragonian tail. It also has a small AI that automatically balances the user's missing.</DR_BionicTail.description>
 
 
 </LanguageData>

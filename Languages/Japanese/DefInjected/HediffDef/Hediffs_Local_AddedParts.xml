@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BionicTail.label>強化尻尾</BionicTail.label>
-  <BionicTail.labelNoun>強化尻尾</BionicTail.labelNoun>
+  <DR_BionicTail.label>強化尻尾</DR_BionicTail.label>
+  <DR_BionicTail.labelNoun>強化尻尾</DR_BionicTail.labelNoun>
 
-  <FakeTail.label>ニセ尻尾</FakeTail.label>
-  <FakeTail.labelNoun>ニセ尻尾</FakeTail.labelNoun>
+  <DR_FakeTail.label>ニセ尻尾</DR_FakeTail.label>
+  <DR_FakeTail.labelNoun>ニセ尻尾</DR_FakeTail.labelNoun>
 
 </LanguageData>

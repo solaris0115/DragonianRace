@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<HediffDef ParentName="AddedBodyPartBase">
-		<defName>BionicTail</defName>
+		<defName>DR_BionicTail</defName>
 		<label>bionic tail</label>
 		<labelNoun>a bionic tail</labelNoun>
-		<spawnThingOnRemoved>BionicTail</spawnThingOnRemoved>
+		<spawnThingOnRemoved>DR_BionicTail</spawnThingOnRemoved>
 		<addedPartProps>
 			<solid>true</solid>
 			<partEfficiency>1.25</partEfficiency>
@@ -12,10 +12,10 @@
 	</HediffDef>
 
 	<HediffDef ParentName="AddedBodyPartBase">
-		<defName>FakeTail</defName>
+		<defName>DR_FakeTail</defName>
 		<label>fake tail</label>
 		<labelNoun>a fake tail</labelNoun>
-		<spawnThingOnRemoved>FakeTail</spawnThingOnRemoved>
+		<spawnThingOnRemoved>DR_FakeTail</spawnThingOnRemoved>
 		<addedPartProps>
 			<solid>true</solid>
 			<partEfficiency>0.35</partEfficiency>

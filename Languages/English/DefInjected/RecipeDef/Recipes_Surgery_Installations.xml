@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <InstallFakeTail.label>install fake tail</InstallFakeTail.label>
-  <InstallFakeTail.description>Install a fake tail.</InstallFakeTail.description>
-  <InstallFakeTail.jobString>Installing fake tail.</InstallFakeTail.jobString>
+  <DR_InstallFakeTail.label>install fake tail</DR_InstallFakeTail.label>
+  <DR_InstallFakeTail.description>Install a fake tail.</DR_InstallFakeTail.description>
+  <DR_InstallFakeTail.jobString>Installing fake tail.</DR_InstallFakeTail.jobString>
 
-  <InstallBionicTail.label>install bionic tail</InstallBionicTail.label>
-  <InstallBionicTail.description>Install a bionic tail.</InstallBionicTail.description>
-  <InstallBionicTail.jobString>Installing bionic tail.</InstallBionicTail.jobString>
+  <DR_InstallBionicTail.label>install bionic tail</DR_InstallBionicTail.label>
+  <DR_InstallBionicTail.description>Install a bionic tail.</DR_InstallBionicTail.description>
+  <DR_InstallBionicTail.jobString>Installing bionic tail.</DR_InstallBionicTail.jobString>
 
 
 </LanguageData>
