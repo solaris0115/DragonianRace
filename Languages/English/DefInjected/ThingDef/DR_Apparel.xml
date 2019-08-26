@@ -34,6 +34,12 @@
   <DR_Onepiece.description>The dress has a side.</DR_Onepiece.description>
 
 
+  <!-- 0826 이브닝 드레스 -->
+
+  <DR_EveningDress.label>dress H</DR_EveningDress.label>
+  <DR_EveningDress.description>A cool Evening dress with a side opening.</DR_EveningDress.description>
+
+
   <!-- 모자 -->
 
   <DR_Hat.label>flower deco</DR_Hat.label>
@@ -53,6 +59,12 @@
 
   <DR_SunHat.label>sun Hat</DR_SunHat.label>
   <DR_SunHat.description>It is a wide hat with a brim to cover the sun.</DR_SunHat.description>
+
+
+  <!-- 0826 리본 추가 -->
+
+  <DR_FlowerRibon.label>flower ribon</DR_FlowerRibon.label>
+  <DR_FlowerRibon.description>An ornament with ribbons and flowers.</DR_FlowerRibon.description>
 
   <DR_MaleDress.label>Basic Wear</DR_MaleDress.label>
   <DR_MaleDress.description>It's Basic wear of Dragonian. It is still unclear how they dress up and make it.</DR_MaleDress.description>

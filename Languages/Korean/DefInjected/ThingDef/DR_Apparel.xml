@@ -3,10 +3,10 @@
 
   <!-- 의상 -->
 
-  <DR_BasicWear.label>기본 의상</DR_BasicWear.label>
+  <DR_BasicWear.label>DR 기본 의상(여성용)</DR_BasicWear.label>
   <DR_BasicWear.description>드라고니안들이 입고 다니는 의상입니다. 아직까지도 야생에서 어떻게 저런 의류를 만들어 입고 다니는 지 밝혀지지 않았습니다.</DR_BasicWear.description>
 
-  <DR_BasicDress.label>기본 드레스</DR_BasicDress.label>
+  <DR_BasicDress.label>DR 기본 드레스(여성용)</DR_BasicDress.label>
   <DR_BasicDress.description>리본으로 장식된 의상입니다. 아직까지도 야생에서 어떻게 저런 의류를 만들어 입고 다니는 지 밝혀지지 않았습니다.</DR_BasicDress.description>
 
   <DR_GreekDress.label>DR 드레스 A</DR_GreekDress.label>
@@ -34,27 +34,39 @@
   <DR_Onepiece.description>옆트임이 있는 원피스입니다.</DR_Onepiece.description>
 
 
+  <!-- 0826 이브닝 드레스 -->
+
+  <DR_EveningDress.label>DR 드레스 H</DR_EveningDress.label>
+  <DR_EveningDress.description>옆트임이 있는 이브닝 드레스입니다.</DR_EveningDress.description>
+
+
   <!-- 모자 -->
 
-  <DR_Hat.label>꽃 장식</DR_Hat.label>
+  <DR_Hat.label>DR 꽃 장식</DR_Hat.label>
   <DR_Hat.description>머리에 꽂을 수 있는 꽃 장식입니다.</DR_Hat.description>
 
-  <DR_JapanHairAcc.label>악세사리</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.label>DR 악세사리</DR_JapanHairAcc.label>
   <DR_JapanHairAcc.description>머리에 꽂을 수 잇는 장식입니다.</DR_JapanHairAcc.description>
 
 
   <!-- 추가 -->
 
-  <DR_Necklace.label>목걸이</DR_Necklace.label>
+  <DR_Necklace.label>DR 목걸이</DR_Necklace.label>
   <DR_Necklace.description>방울이 달린 목걸이 입니다.</DR_Necklace.description>
 
-  <DR_BellNecklace.label>목걸이 (방울)</DR_BellNecklace.label>
+  <DR_BellNecklace.label>DR 목걸이 (방울)</DR_BellNecklace.label>
   <DR_BellNecklace.description>방울이 달린 목걸이 입니다.</DR_BellNecklace.description>
 
-  <DR_SunHat.label>넓은챙 모자</DR_SunHat.label>
+  <DR_SunHat.label>DR 넓은챙 모자</DR_SunHat.label>
   <DR_SunHat.description>태양을 가려줄 챙이 넓은 모자입니다.</DR_SunHat.description>
 
-  <DR_MaleDress.label>기본 의상</DR_MaleDress.label>
+
+  <!-- 0826 리본 추가 -->
+
+  <DR_FlowerRibon.label>DR 리본 꽃</DR_FlowerRibon.label>
+  <DR_FlowerRibon.description>리본과 꽃으로 이루어진 머리 장식입니다.</DR_FlowerRibon.description>
+
+  <DR_MaleDress.label>기본 의상(남성용)</DR_MaleDress.label>
   <DR_MaleDress.description>드라고니안들이 입고 다니는 의상입니다. 아직까지도 야생에서 어떻게 저런 의류를 만들어 입고 다니는 지 밝혀지지 않았습니다.</DR_MaleDress.description>
 
 

@@ -56,6 +56,10 @@
   <Make_DR_Onepiece.description>Make dress G.</Make_DR_Onepiece.description>
   <Make_DR_Onepiece.jobString>Making dress G.</Make_DR_Onepiece.jobString>
 
+  <Make_DR_EveningDress.label>make dress H</Make_DR_EveningDress.label>
+  <Make_DR_EveningDress.description>Make dress H.</Make_DR_EveningDress.description>
+  <Make_DR_EveningDress.jobString>Making dress H.</Make_DR_EveningDress.jobString>
+
   <Make_DR_Hat.label>make flower deco</Make_DR_Hat.label>
   <Make_DR_Hat.description>Make flower deco.</Make_DR_Hat.description>
   <Make_DR_Hat.jobString>Making flower deco.</Make_DR_Hat.jobString>
@@ -75,6 +79,10 @@
   <Make_DR_SunHat.label>make sun Hat</Make_DR_SunHat.label>
   <Make_DR_SunHat.description>Make sun Hat.</Make_DR_SunHat.description>
   <Make_DR_SunHat.jobString>Making sun Hat.</Make_DR_SunHat.jobString>
+
+  <Make_DR_FlowerRibon.label>make flower ribon</Make_DR_FlowerRibon.label>
+  <Make_DR_FlowerRibon.description>Make flower ribon.</Make_DR_FlowerRibon.description>
+  <Make_DR_FlowerRibon.jobString>Making flower ribon.</Make_DR_FlowerRibon.jobString>
 
   <Make_DR_MaleDress.label>make Basic Wear</Make_DR_MaleDress.label>
   <Make_DR_MaleDress.description>Make Basic Wear.</Make_DR_MaleDress.description>
