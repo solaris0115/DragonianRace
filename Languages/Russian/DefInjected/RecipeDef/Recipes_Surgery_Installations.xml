@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_InstallFakeTail.label>установить фальшивый драконий хвост</DR_InstallFakeTail.label>
+  <DR_InstallFakeTail.description>Установить фальшивый драконий хвост.</DR_InstallFakeTail.description>
+  <DR_InstallFakeTail.jobString>Устанавливает фальшивый драконий хвост.</DR_InstallFakeTail.jobString>
+
+  <DR_InstallBionicTail.label>установить бионический драконий хвост</DR_InstallBionicTail.label>
+  <DR_InstallBionicTail.description>Установить бионический драконий хвост.</DR_InstallBionicTail.description>
+  <DR_InstallBionicTail.jobString>Устанавливает бионический драконий хвост.</DR_InstallBionicTail.jobString>
+
+
+</LanguageData>

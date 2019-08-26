@@ -76,5 +76,9 @@
   <Make_DR_SunHat.description>Make sun Hat.</Make_DR_SunHat.description>
   <Make_DR_SunHat.jobString>Making sun Hat.</Make_DR_SunHat.jobString>
 
+  <Make_DR_MaleDress.label>make Basic Wear</Make_DR_MaleDress.label>
+  <Make_DR_MaleDress.description>Make Basic Wear.</Make_DR_MaleDress.description>
+  <Make_DR_MaleDress.jobString>Making Basic Wear.</Make_DR_MaleDress.jobString>
+
 
 </LanguageData>

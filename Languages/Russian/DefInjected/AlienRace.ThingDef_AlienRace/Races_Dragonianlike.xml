@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian.label>Дракон</Dragonian.label>
+  <Dragonian.description>Красивое, полурептильное существо с чертами мифического дракона и человека. Они высоко ценятся браконьерами за их шелковистые, серебряные волосы, а некоторые стремятся поймать их за их высокую цену на черном рынке.</Dragonian.description>
+  <Dragonian.tools.0.label>зубы</Dragonian.tools.0.label>
+  <Dragonian.tools.1.label>левый кулак</Dragonian.tools.1.label>
+  <Dragonian.tools.2.label>правый кулак</Dragonian.tools.2.label>
+  <Dragonian.tools.3.label>хвост</Dragonian.tools.3.label>
+
+
+</LanguageData>

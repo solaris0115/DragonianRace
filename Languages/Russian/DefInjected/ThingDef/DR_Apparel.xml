@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 의상 -->
+
+  <DR_BasicWear.label>Базовая одежда</DR_BasicWear.label>
+  <DR_BasicWear.description>Это базовая одежда драконов. До сих пор неясно, как они одеваются и делают это.</DR_BasicWear.description>
+
+  <DR_BasicDress.label>базовое драконье платье</DR_BasicDress.label>
+  <DR_BasicDress.description>Платье украшено лентой и цветами. Грудь четко обнажена.</DR_BasicDress.description>
+
+  <DR_GreekDress.label>драконье платье A</DR_GreekDress.label>
+  <DR_GreekDress.description>Это платье, завязанное веревкой.</DR_GreekDress.description>
+
+  <DR_GreekHanZo.label>драконье платье B</DR_GreekHanZo.label>
+  <DR_GreekHanZo.description>Это платье надето только на одну сторону.</DR_GreekHanZo.description>
+
+  <DR_GreekPriest.label>драконье платье C</DR_GreekPriest.label>
+  <DR_GreekPriest.description>Это сарафан.</DR_GreekPriest.description>
+
+  <DR_GreekSexyDress.label>драконье платье D</DR_GreekSexyDress.label>
+  <DR_GreekSexyDress.description>Это платье с разрезом.</DR_GreekSexyDress.description>
+
+  <DR_GreekString.label>драконье платье E</DR_GreekString.label>
+  <DR_GreekString.description>Это платье, закрепленное на веревочке.</DR_GreekString.description>
+
+  <DR_JapaneseDress.label>драконье платье F</DR_JapaneseDress.label>
+  <DR_JapaneseDress.description>Платье окружено тканью.</DR_JapaneseDress.description>
+
+
+  <!-- 추가 -->
+
+  <DR_Onepiece.label>драконье платье G</DR_Onepiece.label>
+  <DR_Onepiece.description>Двухсторонние платье.</DR_Onepiece.description>
+
+
+  <!-- 모자 -->
+
+  <DR_Hat.label>Заколка-цветок</DR_Hat.label>
+  <DR_Hat.description>Цветочная заколка для волос.</DR_Hat.description>
+
+  <DR_JapanHairAcc.label>Заколку в японском стиле</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.description>Заколка в японском стиле.</DR_JapanHairAcc.description>
+
+
+  <!-- 추가 -->
+
+  <DR_Necklace.label>ожерелье</DR_Necklace.label>
+  <DR_Necklace.description>Это ожерелье.</DR_Necklace.description>
+
+  <DR_BellNecklace.label>ожерелье-колокольчик</DR_BellNecklace.label>
+  <DR_BellNecklace.description>Это ожерелье с колокольчиком.</DR_BellNecklace.description>
+
+  <DR_SunHat.label>Летняя шляпа</DR_SunHat.label>
+  <DR_SunHat.description>Это летняя шляпа, которая эффективно предотвращает попадание солнечных лучей.</DR_SunHat.description>
+
+
+</LanguageData>

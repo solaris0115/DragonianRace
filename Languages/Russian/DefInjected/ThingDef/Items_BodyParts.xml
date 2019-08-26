@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_FakeTail.label>фальшивый драконий хвост</DR_FakeTail.label>
+  <DR_FakeTail.description>Это фальшивый хвост сделанный из кожи.</DR_FakeTail.description>
+
+  <DR_BionicTail.label>бионический драконий хвост</DR_BionicTail.label>
+  <DR_BionicTail.description>Усовершенствованный искусственный хвост. Он также имеет небольшой ИИ, который автоматически балансирует пользователя.</DR_BionicTail.description>
+
+
+</LanguageData>

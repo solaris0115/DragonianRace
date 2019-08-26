@@ -76,5 +76,9 @@
   <Make_DR_SunHat.description>넓은챙 모자를 제작 합니다.</Make_DR_SunHat.description>
   <Make_DR_SunHat.jobString>넓은챙 모자 제작 중</Make_DR_SunHat.jobString>
 
+  <Make_DR_MaleDress.label>기본 의상 제작</Make_DR_MaleDress.label>
+  <Make_DR_MaleDress.description>기본 의상 제작합니다.</Make_DR_MaleDress.description>
+  <Make_DR_MaleDress.jobString>기본 의상 제작 중</Make_DR_MaleDress.jobString>
+
 
 </LanguageData>

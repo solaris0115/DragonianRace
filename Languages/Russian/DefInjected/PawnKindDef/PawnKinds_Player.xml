@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian.label>дракон</Dragonian.label>
+  <Dragonian.labelPlural>драконы</Dragonian.labelPlural>
+  <Dragonian.labelMale>дракон</Dragonian.labelMale>
+  <Dragonian.labelMalePlural>драконы</Dragonian.labelMalePlural>
+  <Dragonian.labelFemale>женщина-дракон</Dragonian.labelFemale>
+  <Dragonian.labelFemalePlural>женщины-драконы</Dragonian.labelFemalePlural>
+
+  <!--[Core] <WildMan.label>wild man</WildMan.label>-->
+  <!--[Core] <WildMan.labelPlural>wild men</WildMan.labelPlural>-->
+  <!--[Core] <WildMan.labelMale>male wild man</WildMan.labelMale>-->
+  <!--[Core] <WildMan.labelMalePlural>male wild men</WildMan.labelMalePlural>-->
+  <!--[Core] <WildMan.labelFemale>wild woman</WildMan.labelFemale>-->
+  <!--[Core] <WildMan.labelFemalePlural>wild women</WildMan.labelFemalePlural>-->
+
+
+</LanguageData>

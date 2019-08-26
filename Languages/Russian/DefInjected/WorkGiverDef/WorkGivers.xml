@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkDragonian.label>драконье молоко</MilkDragonian.label>
+  <MilkDragonian.verb>молоко</MilkDragonian.verb>
+  <MilkDragonian.gerund>доение</MilkDragonian.gerund>
+
+  <ShearDragonian.label>стрижка дракона</ShearDragonian.label>
+  <ShearDragonian.verb>стрижка</ShearDragonian.verb>
+  <ShearDragonian.gerund>стрижка</ShearDragonian.gerund>
+
+
+</LanguageData>

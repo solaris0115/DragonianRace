@@ -54,5 +54,8 @@
   <DR_SunHat.label>넓은챙 모자</DR_SunHat.label>
   <DR_SunHat.description>태양을 가려줄 챙이 넓은 모자입니다.</DR_SunHat.description>
 
+  <DR_MaleDress.label>기본 의상</DR_MaleDress.label>
+  <DR_MaleDress.description>드라고니안들이 입고 다니는 의상입니다. 아직까지도 야생에서 어떻게 저런 의류를 만들어 입고 다니는 지 밝혀지지 않았습니다.</DR_MaleDress.description>
+
 
 </LanguageData>
