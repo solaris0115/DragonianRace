@@ -1,5 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Defs>
+<Defs>	
+	<HairDef>
+		<defName>DR_Male_Hair</defName>
+		<label>short cut</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hair/DR_Male_Hair</texPath>
+		<hairTags>
+			<li>DR_Hair_Male</li>
+		</hairTags>
+	</HairDef>
 	<HairDef>
 		<defName>DR_TwinDownBindFront</defName>
 		<label>twin down bind(front)</label>

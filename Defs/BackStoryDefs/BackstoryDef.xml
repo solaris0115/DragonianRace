@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<AlienRace.BackstoryDef Name="BaseDragonianBackStory" Abstract="True">
-		<bodyTypeGlobal>Female</bodyTypeGlobal>
-		<bodyTypeMale>Female</bodyTypeMale>
+	<AlienRace.BackstoryDef Name="Dragonian_Base" Abstract="True">
+		<forcedHediffs>
+			<li>Dragonian_AutoRecovery</li>
+		</forcedHediffs>    
+	</AlienRace.BackstoryDef>
+
+
+	<AlienRace.BackstoryDef ParentName="Dragonian_Base"	Name="BaseDragonianBackStory" Abstract="True">
+		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
-		<forcedTraits>
-			<li>
-				<defName>NaturalMood</defName>
-				<degree>2</degree>
-				<chance>100</chance>
-			</li>
-		</forcedTraits>
 		<disallowedTraits>
 			<li>
 				<defName>Beauty</defName>
@@ -88,8 +87,8 @@
 				<chance>100</chance>
 			</li>
 		</disallowedTraits>
-		<maleCommonality>0</maleCommonality>
-		<femaleCommonality>100</femaleCommonality>
+		<maleCommonality>50</maleCommonality>
+		<femaleCommonality>50</femaleCommonality>
 	</AlienRace.BackstoryDef>
 
 	<AlienRace.BackstoryDef ParentName="BaseDragonianBackStory">
@@ -269,4 +268,6 @@
 			<li>DragonianSlave</li>
 		</spawnCategories>
 	</AlienRace.BackstoryDef>
+	
+	
 </Defs>

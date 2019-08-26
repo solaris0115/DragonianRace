@@ -7,7 +7,6 @@ using RimWorld;
 using Verse;
 using Verse.AI;
 using Verse.Sound;
-using rjw;
 using UnityEngine;
 using Harmony;
 using System.Reflection.Emit;
@@ -97,12 +96,12 @@ namespace Dragonian
     public class DragonianBodyDefOf
     {
         public static BodyDef Dragonian;
-        public static BodyTypeDef Female;
     }
     [DefOf]
     public class DragonianPawnKindDefOf
     {
-        public static PawnKindDef Dragonian;
+        public static PawnKindDef Dragonian_Female;
+        public static PawnKindDef Dragonian_Male;
     }
     
     [HarmonyPatch(typeof(ForbidUtility))]

@@ -6,7 +6,12 @@
 			<alienslavekinds>
 				<li>
 					<kindDefs>
-						<li>DragonianSlave</li>
+						<li>Dragonian_Slave_Female</li>
+					</kindDefs>
+					<chance>25.0</chance>
+				</li>				<li>
+					<kindDefs>
+						<li>Dragonian_Slave_Male</li>
 					</kindDefs>
 					<chance>25.0</chance>
 				</li>

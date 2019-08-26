@@ -692,4 +692,50 @@
 			</options>
 		</colorGenerator>
 	</ThingDef>
+	
+	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_ApparelMakeableBase">
+		<defName>DR_MaleDress</defName>
+		<label>Basic Wear</label>
+		<description>It's Basic wear of Dragonian. It is still unclear how they dress up and make it.</description>
+		<graphicData>
+			<texPath>Apparel/DR_MaleDress</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<statBases>
+			<WorkToMake>2500</WorkToMake>
+			<Mass>0.2</Mass>
+			<StuffEffectMultiplierArmor>0.1</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.1</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
+		</statBases>
+		<costStuffCount>35</costStuffCount>
+		<stuffCategories>
+			<li>Fabric</li>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costList>
+			<WoolDragonian>45</WoolDragonian>
+		</costList>
+		<thingCategories>
+			<li>Apparel</li>
+		</thingCategories>
+		<apparel>
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Legs</li>
+			</bodyPartGroups>
+			<defaultOutfitTags>
+				<li>Worker</li>
+			</defaultOutfitTags>
+			<wornGraphicPath>Apparel/DR_MaleDress</wornGraphicPath>
+			<layers>
+				<li>OnSkin</li>
+			</layers>
+			<tags>
+				<li>DR_MaleDress</li>
+			</tags>
+		</apparel>
+	</ThingDef>
 </Defs>
