@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <DR_Male_Hair.label>DR ショートカット</DR_Male_Hair.label>
   <DR_TwinDownBindFront.label>DR ツインおさげ(ショート)</DR_TwinDownBindFront.label>
   <DR_TwinDownBindBoth.label>DR ツインおさげ(ダブル)</DR_TwinDownBindBoth.label>
   <DR_TwinDownBindBack.label>DR ツインおさげ(ロング)</DR_TwinDownBindBack.label>

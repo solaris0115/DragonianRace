@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData> 
 
   <!-- Apparel -->
@@ -34,6 +34,12 @@
   <DR_Onepiece.description>横もあるワンピースです。</DR_Onepiece.description>
 
 
+  <!-- 0826 Evening Dress -->
+
+  <DR_EveningDress.label>DR ドレスH</DR_EveningDress.label>
+  <DR_EveningDress.description>大胆に脇の空いた涼し気なイブニングドレスです。</DR_EveningDress.description>
+
+
   <!-- Hat -->
 
   <DR_Hat.label>花飾り</DR_Hat.label>
@@ -53,5 +59,14 @@
 
   <DR_SunHat.label>花飾りついた帽子</DR_SunHat.label>
   <DR_SunHat.description>太陽を遮ってくれるつばの広い帽子です。</DR_SunHat.description>
+
+
+  <!-- 0826 Add Ribbon -->
+
+  <DR_FlowerRibon.label>フラワーリボン</DR_FlowerRibon.label>
+  <DR_FlowerRibon.description>リボンと花があしらわれたオーナメントです。</DR_FlowerRibon.description>
+
+  <DR_MaleDress.label>DR 伝統衣装</DR_MaleDress.label>
+  <DR_MaleDress.description>ドラゴニアンの伝統的な衣装です。彼らがどのように着飾っているか、それを作るのかはまだ不明です。</DR_MaleDress.description>
 
 </LanguageData>
