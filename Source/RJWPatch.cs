@@ -114,6 +114,7 @@ namespace Dragonian
     public class HediffCompProperties_AutoRecovery : HediffCompProperties
     {
         public int tickMultiflier=6000;
+        public float healPoint=1;
         public HediffCompProperties_AutoRecovery()
         {
             compClass = typeof(HediffComp_AutoRecovery);
@@ -123,6 +124,7 @@ namespace Dragonian
     public class HediffComp_AutoRecovery : HediffComp
     {
         private int ticksToHeal;
+        private float healPoint;
         public static Func<Hediff, bool> func;
 		public HediffCompProperties_AutoRecovery Props
         {
@@ -140,6 +142,7 @@ namespace Dragonian
 
         private void ResetTicksToHeal()
         {
+            healPoint = Rand.Range(1,3)*Props.healPoint;
             ticksToHeal = Rand.Range(15, 30) * Props.tickMultiflier;
         }
 
@@ -160,7 +163,12 @@ namespace Dragonian
 			{
                 func = new Func<Hediff, bool>(HediffUtility.IsPermanent);
             }
-            Hediff hediff;
+            foreach(Hediff hediff in hediffs)
+            {
+                hediff.Severity -= healPoint;
+            }
+
+            /*Hediff hediff;
             if (!hediffs.Where(func).TryRandomElement(out hediff))
             {
                 return;
@@ -169,7 +177,7 @@ namespace Dragonian
             if (PawnUtility.ShouldSendNotificationAbout(Pawn))
             {
                 Messages.Message("MessagePermanentWoundHealed".Translate(parent.LabelCap, Pawn.LabelShort, hediff.Label, Pawn.Named("PAWN")), Pawn, MessageTypeDefOf.PositiveEvent, true);
-            }
+            }*/
         }
 
         public override void CompExposeData()

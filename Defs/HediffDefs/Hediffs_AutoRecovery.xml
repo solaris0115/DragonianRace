@@ -11,7 +11,8 @@
 		<everCurableByItem>false</everCurableByItem>
 		<comps>
 			<li Class="Dragonian.HediffCompProperties_AutoRecovery">
-				<tickMultiflier>1000</tickMultiflier>
+				<healPoint>1</healPoint>
+				<tickMultiflier>3000</tickMultiflier>
 			</li>
 		</comps>
 		<stages>
