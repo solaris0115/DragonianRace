@@ -145,7 +145,6 @@ namespace Dragonian
             healPoint = Rand.Range(1,3)*Props.healPoint;
             ticksToHeal = Rand.Range(15, 30) * Props.tickMultiflier;
         }
-
         public override void CompPostTick(ref float severityAdjustment)
         {
             ticksToHeal--;
@@ -159,13 +158,12 @@ namespace Dragonian
         private void TryHealRandomPermanentWound()
         {
             IEnumerable<Hediff> hediffs = Pawn.health.hediffSet.hediffs;
-            if (func == null)
-			{
-                func = new Func<Hediff, bool>(HediffUtility.IsPermanent);
-            }
             foreach(Hediff hediff in hediffs)
             {
-                hediff.Severity -= healPoint;
+                if(hediff.def.isBad && hediff.IsPermanent())
+                {
+                    hediff.Severity -= healPoint;
+                }
             }
 
             /*Hediff hediff;

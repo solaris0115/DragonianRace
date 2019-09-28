@@ -18,7 +18,7 @@
 		<stages>
 			<li>
 				<label>permanent</label>
-				<becomeVisible>false</becomeVisible>
+				<becomeVisible>true</becomeVisible>
 			</li>
 		</stages>
 	</HediffDef>
