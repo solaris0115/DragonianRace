@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="WoolBase">
+		<defName>WoolDragonian</defName>
+		<label>dragonian wool</label>
+		<description>The remarkably soft wool of an dragonian. It is very warm and strong.</description>
+		<graphicData>
+			<texPath>Things/Item/Resource/Dwool</texPath>
+			<color>(255,255,255)</color>
+		</graphicData>
+		<statBases>
+			<MarketValue>11.0</MarketValue>
+			<StuffPower_Armor_Sharp>1.8</StuffPower_Armor_Sharp>
+			<StuffPower_Armor_Blunt>1.4</StuffPower_Armor_Blunt>
+			<StuffPower_Armor_Heat>1.2</StuffPower_Armor_Heat>
+			<StuffPower_Insulation_Cold>32</StuffPower_Insulation_Cold>
+			<StuffPower_Insulation_Heat>32</StuffPower_Insulation_Heat>
+		</statBases>
+		<stuffProps>
+			<color>(255,255,255)</color>
+			<statOffsets>
+				<Insulation_Cold>3</Insulation_Cold>
+				<Insulation_Heat>3</Insulation_Heat>
+			</statOffsets>
+			<statFactors>
+				<Flammability>0.4</Flammability>
+				<MaxHitPoints>1.75</MaxHitPoints>
+			</statFactors>
+		</stuffProps>
+	</ThingDef>
+
+</Defs>
