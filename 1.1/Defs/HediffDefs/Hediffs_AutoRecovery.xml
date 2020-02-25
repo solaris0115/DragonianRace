@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HediffDef>
+		<defName>Dragonian_AutoRecovery</defName>
+		<description>Cure wound fast</description>
+		<hediffClass>HediffWithComps</hediffClass>
+		<label>auto recover</label>
+		<defaultLabelColor>(0.5,1,0.5)</defaultLabelColor>
+		<scenarioCanAdd>true</scenarioCanAdd>
+		<maxSeverity>1.0</maxSeverity>
+		<isBad>false</isBad>
+		<everCurableByItem>false</everCurableByItem>
+		<comps>
+			<li Class="Dragonian.HediffCompProperties_AutoRecovery">
+				<healPoint>1</healPoint>
+				<tickMultiflier>3000</tickMultiflier>
+			</li>
+		</comps>
+		<stages>
+			<li>
+				<label>permanent</label>
+				<becomeVisible>true</becomeVisible>
+			</li>
+		</stages>
+	</HediffDef>
+</Defs>

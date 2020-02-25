@@ -4,7 +4,9 @@
 	<author>Gloomylynx NukaFrog</author>
 	<supportedVersions>
 		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
+	<packageId>GloomyLynx.DragonianRace</packageId>
 	<description>
 Playable Dragonian
 - Appeared only slave and wildman
