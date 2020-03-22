@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BattleHammer.label>DR バトルハンマー</DR_BattleHammer.label>
+  <DR_BattleHammer.description>EMPコンデンサーが組み込まれたウォーハンマーです。命中した衝撃で、電気ショックが一時的に機械回路を麻痺させます。</DR_BattleHammer.description>
+  <DR_BattleHammer.tools.handle.label>柄</DR_BattleHammer.tools.handle.label>
+  <DR_BattleHammer.tools.head.label>ハンマー</DR_BattleHammer.tools.head.label>
+
+</LanguageData>

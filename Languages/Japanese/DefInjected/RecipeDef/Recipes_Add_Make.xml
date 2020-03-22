@@ -2,14 +2,14 @@
 <LanguageData>
 
 
-  <!-- Recipe Users: TableMachining, ElectricTailoringBench, HandTailoringBench -->
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
   <Make_DR_FakeTail.label>ニセ尻尾を縫う</Make_DR_FakeTail.label>
   <Make_DR_FakeTail.description>ニセ尻尾を縫う。</Make_DR_FakeTail.description>
   <Make_DR_FakeTail.jobString>ニセ尻尾を縫製中</Make_DR_FakeTail.jobString>
 
 
-  <!-- Recipe Users: TableMachining, FabricationBench -->
+  <!-- Recipe Users: FabricationBench -->
 
   <Make_DR_BionicTail.label>強化尻尾を作る</Make_DR_BionicTail.label>
   <Make_DR_BionicTail.description>強化尻尾を作る。</Make_DR_BionicTail.description>
@@ -85,5 +85,20 @@
   <Make_DR_MaleDress.label>DR 伝統衣装を縫う</Make_DR_MaleDress.label>
   <Make_DR_MaleDress.description>DR 伝統衣装を縫う。</Make_DR_MaleDress.description>
   <Make_DR_MaleDress.jobString>DR 伝統衣装を縫製中</Make_DR_MaleDress.jobString>
+
+  <Make_DR_BattleDress.label>DR バトルドレスを縫う</Make_DR_BattleDress.label>
+  <Make_DR_BattleDress.description>DR バトルドレスを縫う。</Make_DR_BattleDress.description>
+  <Make_DR_BattleDress.jobString>DR バトルドレスを縫製中</Make_DR_BattleDress.jobString>
+
+  <Make_DR_BattleHelm.label>DR バトルヘルメットを作る</Make_DR_BattleHelm.label>
+  <Make_DR_BattleHelm.description>DR バトルヘルメットを作る。</Make_DR_BattleHelm.description>
+  <Make_DR_BattleHelm.jobString>DR バトルヘルメットを製作中</Make_DR_BattleHelm.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+
+  <Make_DR_BattleHammer.label>DR バトルハンマーを作る</Make_DR_BattleHammer.label>
+  <Make_DR_BattleHammer.description>DR バトルハンマーを作る。</Make_DR_BattleHammer.description>
+  <Make_DR_BattleHammer.jobString>DR バトルハンマーを製作中</Make_DR_BattleHammer.jobString>
 
 </LanguageData>
