@@ -69,4 +69,10 @@
   <DR_MaleDress.label>DR 伝統衣装</DR_MaleDress.label>
   <DR_MaleDress.description>ドラゴニアンの伝統的な衣装です。彼らがどのように着飾っているか、それを作るのかはまだ不明です。</DR_MaleDress.description>
 
+  <DR_BattleDress.label>DR バトルドレスH</DR_BattleDress.label>
+  <DR_BattleDress.description>装甲板が付いたの軽量のドレスアーマーです。</DR_BattleDress.description>
+
+  <DR_BattleHelm.label>DR バトルヘルメット</DR_BattleHelm.label>
+  <DR_BattleHelm.description>複雑なデザインの軽いバトルヘルムです。</DR_BattleHelm.description>
+
 </LanguageData>
