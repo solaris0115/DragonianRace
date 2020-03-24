@@ -3,7 +3,7 @@
 
   <!-- 의상 -->
 
-  <DR_BasicWear.label>Basic Wear</DR_BasicWear.label>
+  <DR_BasicWear.label>basic wear</DR_BasicWear.label>
   <DR_BasicWear.description>It's Basic wear of Dragonian. It is still unclear how they dress up and make it.</DR_BasicWear.description>
 
   <DR_BasicDress.label>basic dress</DR_BasicDress.label>
@@ -66,8 +66,14 @@
   <DR_FlowerRibon.label>flower ribon</DR_FlowerRibon.label>
   <DR_FlowerRibon.description>An ornament with ribbons and flowers.</DR_FlowerRibon.description>
 
-  <DR_MaleDress.label>Basic Wear</DR_MaleDress.label>
-  <DR_MaleDress.description>It's Basic wear of Dragonian. It is still unclear how they dress up and make it.</DR_MaleDress.description>
+  <DR_MaleDress.label>basic wear</DR_MaleDress.label>
+  <DR_MaleDress.description>It's basic wear of Dragonian. It is still unclear how they dress up and make it.</DR_MaleDress.description>
+
+  <DR_BattleDress.label>battle dress</DR_BattleDress.label>
+  <DR_BattleDress.description>Lightweight armor with plate on the dress.</DR_BattleDress.description>
+
+  <DR_BattleHelm.label>battle helm</DR_BattleHelm.label>
+  <DR_BattleHelm.description>A lightweight battle helm with a complex design.</DR_BattleHelm.description>
 
 
 </LanguageData>

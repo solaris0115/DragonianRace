@@ -2,9 +2,11 @@
 <LanguageData>
 
   <DR_BionicTail.label>Dragonian bionic tail</DR_BionicTail.label>
+  <DR_BionicTail.description>An advanced artificial tail. It also has a small AI that automatically balances the user's missing.</DR_BionicTail.description>
   <DR_BionicTail.labelNoun>a Dragonian bionic tail</DR_BionicTail.labelNoun>
 
   <DR_FakeTail.label>Dragonian fake tail</DR_FakeTail.label>
+  <DR_FakeTail.description>It is a fake tail made of leather.</DR_FakeTail.description>
   <DR_FakeTail.labelNoun>a Dragonian fake tail</DR_FakeTail.labelNoun>
 
 

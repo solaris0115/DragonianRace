@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_FakeTail.label>드라고니안 가짜 꼬리</DR_FakeTail.label>
+  <DR_FakeTail.description>가죽으로 만든 드라고니안 가짜 꼬리입니다.</DR_FakeTail.description>
+
+  <DR_BionicTail.label>드라고니안 생체공학 꼬리</DR_BionicTail.label>
+  <DR_BionicTail.description>인공적으로 만든 드라고니안 꼬리입니다. 사용자의 균형감을 자동으로 보정해줍니다.</DR_BionicTail.description>
+
+
+</LanguageData>

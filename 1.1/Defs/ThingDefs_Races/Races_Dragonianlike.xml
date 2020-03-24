@@ -90,12 +90,18 @@
 					<li>DR_Onepiece</li>
 					<li>DR_EveningDress</li>
 					<li>DR_FlowerRibon</li>
+					<li>DR_BattleDress</li>
+					<li>DR_BattleHelm</li>
 				</apparelList>
 				<whiteApparelList>
 					<li>Apparel_ShieldBelt</li>
 					<li>Apparel_SmokepopBelt</li>
-				</whiteApparelList>
+				</whiteApparelList>				
+				<weaponList>
+					<li>DR_BattleHammer</li>
+				</weaponList>
 			</raceRestriction>
+
 			<thoughtSettings>
 				<cannotReceiveThoughts>
 					<li>Naked</li>

@@ -3,7 +3,8 @@
 
   <WoolDragonian.label>dragonian wool</WoolDragonian.label>
   <WoolDragonian.description>The remarkably soft wool of an dragonian. It is very warm and strong.</WoolDragonian.description>
-  <WoolDragonian.stuffProps.stuffAdjective>dragonian wool</WoolDragonian.stuffProps.stuffAdjective>
 
+
+  <!--<WoolDragonian.stuffProps.stuffAdjective>dragonian wool</WoolDragonian.stuffProps.stuffAdjective>-->
 
 </LanguageData>

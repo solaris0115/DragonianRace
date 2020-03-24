@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BattleHammer.label>DR 전투 망치</DR_BattleHammer.label>
+  <DR_BattleHammer.description>커다란 망치입니다. 내장된 EMP 커패시터가 일시적으로 전기 충격을 가해 기계장치를 마비시킬 수 있습니다..</DR_BattleHammer.description>
+  <DR_BattleHammer.tools.0.label>손잡이</DR_BattleHammer.tools.0.label>
+  <DR_BattleHammer.tools.1.label>망치 머리</DR_BattleHammer.tools.1.label>
+
+
+</LanguageData>

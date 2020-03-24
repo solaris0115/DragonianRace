@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BattleHammer.label>battle hammer</DR_BattleHammer.label>
+  <DR_BattleHammer.description>A warhammer with an embedded EMP capacitor. Upon impact, Electrical shock temporarily paralyzes the circuit.</DR_BattleHammer.description>
+  <DR_BattleHammer.tools.0.label>handle</DR_BattleHammer.tools.0.label>
+  <DR_BattleHammer.tools.1.label>head</DR_BattleHammer.tools.1.label>
+
+
+</LanguageData>
