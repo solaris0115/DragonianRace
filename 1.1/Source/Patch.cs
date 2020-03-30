@@ -49,7 +49,8 @@ namespace Dragonian
             {
                 kindDef = DragonianPawnKindDefOf.Dragonian_Female;
             }
-            Pawn pawn = PawnGenerator.GeneratePawn(kindDef, faction);
+
+            Faction factionDragonian = Find.FactionManager.AllFactionsListForReading.FirstOrDefault(x => x.def.defName == "Dragonians_Hidden");
             pawn.SetFaction(null, null);
             GenSpawn.Spawn(pawn, loc, map, WipeMode.Vanish);
             pawn.kindDef = PawnKindDefOf.WildMan;
