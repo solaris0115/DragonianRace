@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<AlienRace.ThingDef_AlienRace ParentName="DR_PawnBase">
+	<AlienRace.ThingDef_AlienRace ParentName="BasePawn">
 		<defName>Dragonian_Female</defName>
 		<label>Dragonian</label>
 		<description>A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.</description>
@@ -131,7 +131,7 @@
 		<statBases>			
 			<MarketValue>5800</MarketValue>
 			<MoveSpeed>5.2</MoveSpeed> 
-			<Flammability>1.0</Flammability>
+			<Flammability>0.7</Flammability>
 			<ComfyTemperatureMin>-45</ComfyTemperatureMin>
 			<ComfyTemperatureMax>45</ComfyTemperatureMax>
 			<ImmunityGainSpeed>1.5</ImmunityGainSpeed>
@@ -436,11 +436,16 @@
 				<onlyUseRaceRestrictedWeapons>true</onlyUseRaceRestrictedWeapons>
 				<apparelList>
 					<li>DR_MaleDress</li>
+					<li>DR_BattleDressMale</li>
+					<li>DR_BattleHelmMale</li>
 				</apparelList>
 				<whiteApparelList>
 					<li>Apparel_ShieldBelt</li>
 					<li>Apparel_SmokepopBelt</li>
-				</whiteApparelList>
+				</whiteApparelList>				
+				<weaponList>
+					<li>DR_BattleHammer</li>
+				</weaponList>
 			</raceRestriction>
 			<thoughtSettings>
 				<cannotReceiveThoughts>
@@ -469,7 +474,6 @@
 		<statBases>			
 			<MarketValue>5800</MarketValue>
 			<MoveSpeed>5.2</MoveSpeed> 
-			<Flammability>1.0</Flammability>
 			<ComfyTemperatureMin>-45</ComfyTemperatureMin>
 			<ComfyTemperatureMax>45</ComfyTemperatureMax>
 			<ImmunityGainSpeed>1.5</ImmunityGainSpeed>
@@ -477,6 +481,7 @@
 			<ArmorRating_Sharp>0.50</ArmorRating_Sharp>
 			<ArmorRating_Blunt>0.40</ArmorRating_Blunt>
 			<ArmorRating_Heat>0.20</ArmorRating_Heat>
+			<Flammability>0.7</Flammability>
 
 			<ToxicSensitivity>0.6</ToxicSensitivity>
 			<EatingSpeed>1.1</EatingSpeed>

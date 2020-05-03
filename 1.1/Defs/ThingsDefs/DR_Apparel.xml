@@ -958,4 +958,133 @@
 			</defaultIngredientFilter>		
 		</recipeMaker>
 	</ThingDef>
+	
+	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_ApparelMakeableBase">
+		<defName>DR_BattleDressMale</defName>
+		<label>dress H(male)</label>
+		<description>Lightweight armor with plate on the dress.</description>
+		<graphicData>
+			<texPath>Apparel/DR_BattleDressMale</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>200</MaxHitPoints>
+			<WorkToMake>25000</WorkToMake>
+			<Mass>7</Mass>
+			<StuffEffectMultiplierArmor>0.15</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.40</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.40</StuffEffectMultiplierInsulation_Heat>
+			<ArmorRating_Sharp>0.6</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.3</ArmorRating_Blunt>
+			<Flammability>0.64</Flammability>
+			<EquipDelay>3</EquipDelay>
+		</statBases>		
+		<costStuffCount>100</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costList>
+			<WoolDragonian>80</WoolDragonian>
+		</costList>
+		<apparel>
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Neck</li>
+				<li>Shoulders</li>
+				<li>Arms</li>
+				<li>Legs</li>
+			</bodyPartGroups>
+			<defaultOutfitTags>
+				<li>Worker</li>
+			</defaultOutfitTags>
+			<wornGraphicPath>Apparel/DR_BattleDressMale</wornGraphicPath>
+			<layers>
+				<li>OnSkin</li>
+			</layers>
+			<tags>
+				<li>DR_Apparel</li>
+				<li>RoyalCombatGear</li>
+			</tags>
+		</apparel>
+		<thingCategories>
+			<li>ApparelArmor</li>
+		</thingCategories>
+		<recipeMaker>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<researchPrerequisite>PlateArmor</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>7</Crafting>
+			</skillRequirements>
+			<defaultIngredientFilter>
+				<disallowedThingDefs>
+					<li>Gold</li>
+					<li>Silver</li>
+				</disallowedThingDefs>
+			</defaultIngredientFilter>		
+		</recipeMaker>
+	</ThingDef>
+	
+	<ThingDef Class="Dragonian.CustomThingDef" ParentName="DR_HatMakeableBase">
+		<defName>DR_BattleHelmMale</defName>
+		<label>battle helm(male)</label>
+		<description>A lightweight battle helm with a complex design.</description>
+		<graphicData>
+			<texPath>Apparel/DR_BattleHelmMale</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+		<costList>
+			<Steel>25</Steel>
+		</costList>
+		<costStuffCount>40</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<MaxHitPoints>200</MaxHitPoints>
+			<WorkToMake>18000</WorkToMake>
+			<Mass>3</Mass>			
+			<StuffEffectMultiplierArmor>0.35</StuffEffectMultiplierArmor>			
+			<ArmorRating_Sharp>0.40</ArmorRating_Sharp>
+			<ArmorRating_Blunt>0.20</ArmorRating_Blunt>
+			<EquipDelay>1.5</EquipDelay>
+		</statBases>
+		<apparel>
+			<hatRenderedFrontOfFace>true</hatRenderedFrontOfFace>
+			<bodyPartGroups>
+				<li>UpperHead</li>
+				<li>Eyes</li>
+				<li>Teeth</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Apparel/DR_BattleHelmMale</wornGraphicPath>
+			<layers>
+				<li>Overhead</li>
+			</layers>
+			<defaultOutfitTags>
+				<li>Worker</li>
+			</defaultOutfitTags>
+			<tags>
+				<li>DR_Apparel</li>
+				<li>RoyalCombatGear</li>
+			</tags>
+		</apparel>
+		<thingCategories>
+			<li>ApparelArmor</li>
+		</thingCategories>
+		<recipeMaker>
+			<unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+			<researchPrerequisite>PlateArmor</researchPrerequisite>
+			<skillRequirements>
+				<Crafting>7</Crafting>
+			</skillRequirements>
+			<defaultIngredientFilter>
+				<disallowedThingDefs>
+					<li>Gold</li>
+					<li>Silver</li>
+				</disallowedThingDefs>
+			</defaultIngredientFilter>		
+		</recipeMaker>
+	</ThingDef>
+	
 </Defs>

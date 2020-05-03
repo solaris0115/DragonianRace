@@ -4,16 +4,16 @@
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <Make_DR_FakeTail.label>ニセ尻尾を縫う</Make_DR_FakeTail.label>
+  <!-- <Make_DR_FakeTail.label>ニセ尻尾を縫う</Make_DR_FakeTail.label>
   <Make_DR_FakeTail.description>ニセ尻尾を縫う。</Make_DR_FakeTail.description>
-  <Make_DR_FakeTail.jobString>ニセ尻尾を縫製中</Make_DR_FakeTail.jobString>
+  <Make_DR_FakeTail.jobString>ニセ尻尾を縫製中</Make_DR_FakeTail.jobString> -->
 
 
   <!-- Recipe Users: FabricationBench -->
 
-  <Make_DR_BionicTail.label>強化尻尾を作る</Make_DR_BionicTail.label>
+  <!-- <Make_DR_BionicTail.label>強化尻尾を作る</Make_DR_BionicTail.label>
   <Make_DR_BionicTail.description>強化尻尾を作る。</Make_DR_BionicTail.description>
-  <Make_DR_BionicTail.jobString>強化尻尾を製作中</Make_DR_BionicTail.jobString>
+  <Make_DR_BionicTail.jobString>強化尻尾を製作中</Make_DR_BionicTail.jobString> -->
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
@@ -94,11 +94,19 @@
   <Make_DR_BattleHelm.description>DR バトルヘルメットを作る。</Make_DR_BattleHelm.description>
   <Make_DR_BattleHelm.jobString>DR バトルヘルメットを製作中</Make_DR_BattleHelm.jobString>
 
+  <Make_DR_BattleDressMale.label>DR バトルドレスH(男性用)を作る</Make_DR_BattleDressMale.label>
+  <Make_DR_BattleDressMale.description>DR バトルドレスH(男性用)を作る。</Make_DR_BattleDressMale.description>
+  <Make_DR_BattleDressMale.jobString>DR バトルドレスH(男性用)を製作中</Make_DR_BattleDressMale.jobString>
+
+  <Make_DR_BattleHelmMale.label>DR バトルヘルメット(男性用)を作る</Make_DR_BattleHelmMale.label>
+  <Make_DR_BattleHelmMale.description>DR バトルヘルメット(男性用)を作る。</Make_DR_BattleHelmMale.description>
+  <Make_DR_BattleHelmMale.jobString>DR バトルヘルメット(男性用)を製作中</Make_DR_BattleHelmMale.jobString>
+
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <Make_DR_BattleHammer.label>DR バトルハンマーを作る</Make_DR_BattleHammer.label>
+  <!-- <Make_DR_BattleHammer.label>DR バトルハンマーを作る</Make_DR_BattleHammer.label>
   <Make_DR_BattleHammer.description>DR バトルハンマーを作る。</Make_DR_BattleHammer.description>
-  <Make_DR_BattleHammer.jobString>DR バトルハンマーを製作中</Make_DR_BattleHammer.jobString>
+  <Make_DR_BattleHammer.jobString>DR バトルハンマーを製作中</Make_DR_BattleHammer.jobString> -->
 
 </LanguageData>

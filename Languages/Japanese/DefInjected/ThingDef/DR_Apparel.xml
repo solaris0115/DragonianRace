@@ -75,4 +75,10 @@
   <DR_BattleHelm.label>DR バトルヘルメット</DR_BattleHelm.label>
   <DR_BattleHelm.description>複雑なデザインの軽いバトルヘルムです。</DR_BattleHelm.description>
 
+  <DR_BattleDressMale.label>DR バトルドレスH(男性用)</DR_BattleDressMale.label>
+  <DR_BattleDressMale.description>装甲板が付いたの軽量のドレスアーマーです。</DR_BattleDressMale.description>
+
+  <DR_BattleHelmMale.label>DR バトルヘルメット(男性用)</DR_BattleHelmMale.label>
+  <DR_BattleHelmMale.description>複雑なデザインの軽いバトルヘルムです。</DR_BattleHelmMale.description>
+
 </LanguageData>
