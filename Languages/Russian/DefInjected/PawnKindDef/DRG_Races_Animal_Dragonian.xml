@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_PAWN_Dragonian.label>драгониан</DR_PAWN_Dragonian.label>
+  <DR_PAWN_Dragonian.labelPlural>драгонианы</DR_PAWN_Dragonian.labelPlural>
+  <DR_PAWN_Dragonian.lifeStages.0.label>детёныш драгониан</DR_PAWN_Dragonian.lifeStages.0.label>
+  <DR_PAWN_Dragonian.lifeStages.0.labelPlural>драгониан-детёныши</DR_PAWN_Dragonian.lifeStages.0.labelPlural>
+  <DR_PAWN_Dragonian.lifeStages.1.label>драгониан</DR_PAWN_Dragonian.lifeStages.1.label>
+  <DR_PAWN_Dragonian.lifeStages.1.labelPlural>драгонианы</DR_PAWN_Dragonian.lifeStages.1.labelPlural>
+
+</LanguageData>
