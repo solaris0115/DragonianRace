@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<WorkGiverDef>
+		<defName>MilkDragonian</defName>
+		<label>milk dragonian</label>
+		<giverClass>Dragonian.WorkGiver_MilkDragonian</giverClass>
+		<workType>Handling</workType>
+		<verb>milk</verb>
+		<gerund>milking</gerund>
+		<priorityInType>90</priorityInType>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+	</WorkGiverDef>
+	<WorkGiverDef>
+		<defName>ShearDragonian</defName>
+		<label>shear dragonian</label>
+		<giverClass>Dragonian.WorkGiver_ShearDragonian</giverClass>
+		<workType>Handling</workType>
+		<verb>shear</verb>
+		<gerund>shearing</gerund>
+		<priorityInType>85</priorityInType>
+		<requiredCapacities>
+			<li>Manipulation</li>
+		</requiredCapacities>
+	</WorkGiverDef>
+
+</Defs>

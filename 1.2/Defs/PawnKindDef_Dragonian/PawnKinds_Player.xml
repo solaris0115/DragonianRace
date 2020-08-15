@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<PawnKindDef>
+		<defName>Dragonian_Slave_Male</defName>
+		<label>dragonian slave</label>
+		<isFighter>false</isFighter>
+		<combatPower>60</combatPower>
+		<itemQuality>Poor</itemQuality>
+		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+		<forceNormalGearQuality>true</forceNormalGearQuality>
+		<backstoryCategories>
+			<li>DragonianStory</li>
+		</backstoryCategories>
+		<race>Dragonian_Male</race>
+		<baseRecruitDifficulty>0.20</baseRecruitDifficulty>
+		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+		<defaultFactionType>OutlanderCivil</defaultFactionType>
+		<apparelMoney>
+			<min>1200</min>
+			<max>1200</max>
+		</apparelMoney>
+		<apparelTags>
+			<li>DR_MaleDress</li>
+		</apparelTags>	
+		<invNutrition>1</invNutrition>
+		<apparelAllowHeadgearChance>0.0</apparelAllowHeadgearChance>
+	</PawnKindDef>
+
+	<PawnKindDef>
+		<defName>Dragonian_Slave_Female</defName>
+		<label>dragonian slave</label>
+		<isFighter>false</isFighter>
+		<combatPower>60</combatPower>
+		<itemQuality>Poor</itemQuality>
+		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+		<forceNormalGearQuality>true</forceNormalGearQuality>
+		<backstoryCategories>
+			<li>DragonianStory</li>
+		</backstoryCategories>
+		<race>Dragonian_Female</race>
+		<baseRecruitDifficulty>0.20</baseRecruitDifficulty>
+		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+		<defaultFactionType>OutlanderCivil</defaultFactionType>
+		<apparelMoney>
+			<min>1200</min>
+			<max>1200</max>
+		</apparelMoney>
+		<apparelTags>
+			<li>DR_Apparel</li>
+			<li>DR_Basic</li>
+		</apparelTags>	
+		<invNutrition>1</invNutrition>
+		<apparelAllowHeadgearChance>0.0</apparelAllowHeadgearChance>
+	</PawnKindDef>
+	
+	<PawnKindDef>
+		<defName>Dragonian_Female</defName>
+		<label>wild dragonian</label>
+		<labelPlural>wild dragonian</labelPlural>
+		<labelFemale>wild dragonian</labelFemale>
+		<labelFemalePlural>wild dragonian</labelFemalePlural>
+		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+		<forceNormalGearQuality>true</forceNormalGearQuality>
+		<combatPower>60</combatPower>
+		<itemQuality>Poor</itemQuality>
+		<race>Dragonian_Female</race>
+		<backstoryCategories>
+			<li>DragonianStory</li>
+		</backstoryCategories>
+		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+		<baseRecruitDifficulty>0.50</baseRecruitDifficulty>
+		<apparelMoney>
+			<min>1200</min>
+			<max>1200</max>
+		</apparelMoney>
+		<apparelTags>
+			<li>DR_Basic</li>
+		</apparelTags>	
+	</PawnKindDef>
+	
+	<PawnKindDef>
+		<defName>Dragonian_Male</defName>
+		<label>wild dragonian</label>
+		<labelPlural>wild dragonian</labelPlural>
+		<labelFemale>wild dragonian</labelFemale>
+		<labelFemalePlural>wild dragonian</labelFemalePlural>
+		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+		<forceNormalGearQuality>true</forceNormalGearQuality>
+		<combatPower>60</combatPower>
+		<itemQuality>Poor</itemQuality>
+		<race>Dragonian_Male</race>
+		<backstoryCategories>
+			<li>DragonianStory</li>
+		</backstoryCategories>
+		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+		<baseRecruitDifficulty>0.50</baseRecruitDifficulty>
+		<apparelMoney>
+			<min>1200</min>
+			<max>1200</max>
+		</apparelMoney>
+		<apparelTags>
+			<li>DR_MaleDress</li>
+		</apparelTags>	
+	</PawnKindDef>
+</Defs>
