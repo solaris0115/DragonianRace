@@ -23,36 +23,49 @@
 					<customDrawSize>(1, 1)</customDrawSize>
 					<customPortraitDrawSize>(0.95, 0.95)</customPortraitDrawSize>
 					<!--색상관련 -->
-					<alienskincolorgen Class="ColorGenerator_Options">
-						<options>
-							<li>
-								<weight>1</weight>
-								<only>RGBA(255,255,255,255)</only>
-							</li>
-						</options>
-					</alienskincolorgen> 
-					<alienhaircolorgen Class="ColorGenerator_Options">
-						<options>
-							<li>
-								<weight>1</weight>
-								<only>RGBA(255,255,255,255)</only>
-							</li>
-						</options>
-					</alienhaircolorgen>
-					<useSkincolorForHair>false</useSkincolorForHair>
+					<colorChannels>
+						<li>
+							<name>DR_ColorChannelSkin</name>
+							<first Class="ColorGenerator_Options">
+								<options>
+									<li>
+										<weight>1</weight>
+										<only>RGBA(1.0,1.0,1.0,1)</only>
+									</li>
+								</options>
+							</first>				
+						</li>
+						<li>
+							<name>DR_ColorChannelHair</name>
+							<first Class="ColorGenerator_Options">
+								<options>
+									<li>
+										<weight>1</weight>
+										<only>RGBA(255,255,255,255)</only>
+									</li>
+
+								</options>
+							</first>
+						</li>
+					</colorChannels>
+
 				</alienPartGenerator>
 				<disallowedTraits>
-					<li>AnnoyingVoice</li>
-					<li>CreepyBreathing</li>
+					<li>
+						<defName>AnnoyingVoice</defName>
+					</li>
+					<li>
+						<defName>CreepyBreathing</defName>
+					</li>
 				</disallowedTraits>
 				<forcedRaceTraitEntries> 
-				<li>
-					<defName>NaturalMood</defName>
-					<degree>2</degree>
-					<commonalityMale>0</commonalityMale>
-					<commonalityFemale>100</commonalityFemale>
-				</li>
-			</forcedRaceTraitEntries>
+					<li>
+						<defName>NaturalMood</defName>
+						<degree>2</degree>
+						<commonalityMale>0</commonalityMale>
+						<commonalityFemale>100</commonalityFemale>
+					</li>
+				</forcedRaceTraitEntries>
 			</generalSettings>
 			<graphicPaths>
 				<li>
@@ -126,7 +139,7 @@
 				</cannotReceiveThoughts>
 			</thoughtSettings>
 
-			
+
 		</alienRace>
 		<statBases>			
 			<MarketValue>5800</MarketValue>
@@ -381,27 +394,40 @@
 					<customDrawSize>(1, 1)</customDrawSize>
 					<customPortraitDrawSize>(0.95, 0.95)</customPortraitDrawSize>
 					<!--색상관련 -->
-					<alienskincolorgen Class="ColorGenerator_Options">
-						<options>
-							<li>
-								<weight>1</weight>
-								<only>RGBA(255,255,255,255)</only>
-							</li>
-						</options>
-					</alienskincolorgen> 
-					<alienhaircolorgen Class="ColorGenerator_Options">
-						<options>
-							<li>
-								<weight>1</weight>
-								<only>RGBA(255,255,255,255)</only>
-							</li>
-						</options>
-					</alienhaircolorgen>
-					<useSkincolorForHair>false</useSkincolorForHair>
+					<colorChannels>
+						<li>
+							<name>DR_ColorChannelSkin</name>
+							<first Class="ColorGenerator_Options">
+								<options>
+									<li>
+										<weight>1</weight>
+										<only>RGBA(1.0,1.0,1.0,1)</only>
+									</li>
+								</options>
+							</first>				
+						</li>
+						<li>
+							<name>DR_ColorChannelHair</name>
+							<first Class="ColorGenerator_Options">
+								<options>
+									<li>
+										<weight>1</weight>
+										<only>RGBA(255,255,255,255)</only>
+									</li>
+								</options>
+							</first>
+						</li>
+					</colorChannels>
+
+
 				</alienPartGenerator>
 				<disallowedTraits>
-					<li>AnnoyingVoice</li>
-					<li>CreepyBreathing</li>
+					<li>
+						<defName>AnnoyingVoice</defName>
+					</li>
+					<li>
+						<defName>CreepyBreathing</defName>
+					</li>
 				</disallowedTraits>
 				<forcedRaceTraitEntries> 
 					<li>
