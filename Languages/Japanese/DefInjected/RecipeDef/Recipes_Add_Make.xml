@@ -4,16 +4,16 @@
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
 
-  <!-- <Make_DR_FakeTail.label>ニセ尻尾を縫う</Make_DR_FakeTail.label>
-  <Make_DR_FakeTail.description>ニセ尻尾を縫う。</Make_DR_FakeTail.description>
-  <Make_DR_FakeTail.jobString>ニセ尻尾を縫製中</Make_DR_FakeTail.jobString> -->
+  <Make_DR_FakeTail.label>DR ニセ尻尾を縫う</Make_DR_FakeTail.label>
+  <Make_DR_FakeTail.description>ドラコニアンのニセ尻尾を縫う。</Make_DR_FakeTail.description>
+  <Make_DR_FakeTail.jobString>DR ニセ尻尾を縫製中</Make_DR_FakeTail.jobString>
 
 
   <!-- Recipe Users: FabricationBench -->
 
-  <!-- <Make_DR_BionicTail.label>強化尻尾を作る</Make_DR_BionicTail.label>
-  <Make_DR_BionicTail.description>強化尻尾を作る。</Make_DR_BionicTail.description>
-  <Make_DR_BionicTail.jobString>強化尻尾を製作中</Make_DR_BionicTail.jobString> -->
+  <Make_DR_BionicTail.label>DR 強化尻尾を作る</Make_DR_BionicTail.label>
+  <Make_DR_BionicTail.description>ドラコニアンの強化尻尾を作る。</Make_DR_BionicTail.description>
+  <Make_DR_BionicTail.jobString>DR 強化尻尾を製作中</Make_DR_BionicTail.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
@@ -105,8 +105,8 @@
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
 
-  <!-- <Make_DR_BattleHammer.label>DR バトルハンマーを作る</Make_DR_BattleHammer.label>
+  <Make_DR_BattleHammer.label>DR バトルハンマーを作る</Make_DR_BattleHammer.label>
   <Make_DR_BattleHammer.description>DR バトルハンマーを作る。</Make_DR_BattleHammer.description>
-  <Make_DR_BattleHammer.jobString>DR バトルハンマーを製作中</Make_DR_BattleHammer.jobString> -->
+  <Make_DR_BattleHammer.jobString>DR バトルハンマーを製作中</Make_DR_BattleHammer.jobString>
 
 </LanguageData>
