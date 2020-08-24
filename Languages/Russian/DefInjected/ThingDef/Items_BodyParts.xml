@@ -2,10 +2,9 @@
 <LanguageData>
 
   <DR_FakeTail.label>фальшивый драконий хвост</DR_FakeTail.label>
-  <DR_FakeTail.description>Это фальшивый хвост сделанный из кожи.</DR_FakeTail.description>
+  <DR_FakeTail.description>Простой фальшивый хвост Драгониана. Имеет непривлекательный внешний вид, и на ощупь не очень.</DR_FakeTail.description>
 
   <DR_BionicTail.label>бионический драконий хвост</DR_BionicTail.label>
-  <DR_BionicTail.description>Усовершенствованный искусственный хвост. Он также имеет небольшой ИИ, который автоматически балансирует пользователя.</DR_BionicTail.description>
-
+  <DR_BionicTail.description>Продвинутый искусственный хвост Драгониана. Он также имеет встроенный ИИ, который автоматически балансирует тело пользователя.</DR_BionicTail.description>
 
 </LanguageData>

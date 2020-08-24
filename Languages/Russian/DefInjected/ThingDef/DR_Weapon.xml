@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BattleHammer.label>драконий боевой молот</DR_BattleHammer.label>
+  <DR_BattleHammer.description>Боевой молот со встроенным ЭМИ-конденсатором. При ударе поражает жертву электрическим током и временно парализует электрические цепи питания.</DR_BattleHammer.description>
+  <DR_BattleHammer.tools.0.label>рукоять</DR_BattleHammer.tools.0.label>
+  <DR_BattleHammer.tools.1.label>боевой молот</DR_BattleHammer.tools.1.label>
+
+</LanguageData>

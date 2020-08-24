@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DR_TwinDownBindFront.label>twin down bind(front)</DR_TwinDownBindFront.label>
+  <DR_Male_Hair.label>shortcut</DR_Male_Hair.label>
+  <DR_TwinDownBindFront.label>twin down bind (front)</DR_TwinDownBindFront.label>
   <DR_TwinDownBindBoth.label>twin down bind</DR_TwinDownBindBoth.label>
-  <DR_TwinDownBindBack.label>twin down bind(back)</DR_TwinDownBindBack.label>
+  <DR_TwinDownBindBack.label>twin down bind (back)</DR_TwinDownBindBack.label>
   <DR_Twintail.label>twin tail</DR_Twintail.label>
   <DR_TwinDownBind.label>twin down bind</DR_TwinDownBind.label>
   <DR_Long.label>long</DR_Long.label>
@@ -14,6 +15,5 @@
   <DR_Wavelong.label>wavelong</DR_Wavelong.label>
   <DR_Middlecut.label>middlecut</DR_Middlecut.label>
   <DR_Short.label>shortcut</DR_Short.label>
-
 
 </LanguageData>
