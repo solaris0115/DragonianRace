@@ -1,4 +1,4 @@
-# DragonianRace
+# DragonianRace-
 
 1.드래고니안 색상선택 수정(1.2)
 1.2버전에 DragonianSkin,DragonianHair 컬러채널이 피부와 머리카락으로 인식되지 않음, 각각 skin과 hair로 수정
