@@ -9,9 +9,13 @@
 		<itemQuality>Poor</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
-		<backstoryCategories>
-			<li>DragonianStory</li>
-		</backstoryCategories>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>DragonianStory</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
 		<race>Dragonian_Male</race>
 		<baseRecruitDifficulty>0.20</baseRecruitDifficulty>
 		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
@@ -35,9 +39,13 @@
 		<itemQuality>Poor</itemQuality>
 		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
 		<forceNormalGearQuality>true</forceNormalGearQuality>
-		<backstoryCategories>
-			<li>DragonianStory</li>
-		</backstoryCategories>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>DragonianStory</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
 		<race>Dragonian_Female</race>
 		<baseRecruitDifficulty>0.20</baseRecruitDifficulty>
 		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
@@ -65,9 +73,13 @@
 		<combatPower>60</combatPower>
 		<itemQuality>Poor</itemQuality>
 		<race>Dragonian_Female</race>
-		<backstoryCategories>
-			<li>DragonianStory</li>
-		</backstoryCategories>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>DragonianStory</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
 		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
 		<baseRecruitDifficulty>0.50</baseRecruitDifficulty>
 		<apparelMoney>
@@ -90,9 +102,13 @@
 		<combatPower>60</combatPower>
 		<itemQuality>Poor</itemQuality>
 		<race>Dragonian_Male</race>
-		<backstoryCategories>
-			<li>DragonianStory</li>
-		</backstoryCategories>
+		<backstoryFiltersOverride>
+			<li>
+				<categories>
+					<li>DragonianStory</li>
+				</categories>
+			</li>
+		</backstoryFiltersOverride>
 		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
 		<baseRecruitDifficulty>0.50</baseRecruitDifficulty>
 		<apparelMoney>
