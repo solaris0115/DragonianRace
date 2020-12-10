@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
-	<AlienRace.BackstoryDef Name="Dragonian_Base" Abstract="True">
-		<forcedHediffs>
-			<li>Dragonian_AutoRecovery</li>
-		</forcedHediffs>    
-	</AlienRace.BackstoryDef>
-
-
-	<AlienRace.BackstoryDef ParentName="Dragonian_Base"	Name="BaseDragonianBackStory" Abstract="True">
+	<AlienRace.BackstoryDef	Name="BaseDragonianBackStory" Abstract="True">
 		<bodyTypeMale>Male</bodyTypeMale>
 		<bodyTypeFemale>Female</bodyTypeFemale>
 		<disallowedTraits>
