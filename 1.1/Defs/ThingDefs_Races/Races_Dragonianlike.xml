@@ -7,7 +7,6 @@
 		<alienRace>
 			<generalSettings>
 				<maleGenderProbability>0</maleGenderProbability>
-				<immuneToAge>true</immuneToAge>
 				<canLayDown>true</canLayDown>   
 				<maxDamageForSocialfight>8</maxDamageForSocialfight>
 				<humanRecipeImport>true</humanRecipeImport>
@@ -317,7 +316,7 @@
 				</points>
 			</ageGenerationCurve>
 			<hediffGiverSets>
-				<li>OrganicStandard</li>
+				<li>DragonianInate</li>
 			</hediffGiverSets>
 		</race>
 		<recipes>   
@@ -358,14 +357,13 @@
 		</tradeTags>
 	</AlienRace.ThingDef_AlienRace>
 
-	<AlienRace.ThingDef_AlienRace ParentName="DR_PawnBase">
+	<AlienRace.ThingDef_AlienRace ParentName="BasePawn">
 		<defName>Dragonian_Male</defName>
 		<label>Dragonian</label>
 		<description>A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.</description>
 		<alienRace>
 			<generalSettings>
 				<maleGenderProbability>100</maleGenderProbability>
-				<immuneToAge>true</immuneToAge>
 				<canLayDown>true</canLayDown>   
 				<maxDamageForSocialfight>8</maxDamageForSocialfight>
 				<humanRecipeImport>true</humanRecipeImport>
@@ -581,6 +579,7 @@
 			<intelligence>Humanlike</intelligence>
 			<makesFootprints>true</makesFootprints>
 			<lifeExpectancy>850</lifeExpectancy>
+			<useMeatFrom>Dragonian_Female</useMeatFrom>
 			<leatherDef>Leather_Light</leatherDef>
 			<nameCategory>HumanStandard</nameCategory>
 			<trainability>Advanced</trainability>
@@ -655,7 +654,7 @@
 				</points>
 			</ageGenerationCurve>
 			<hediffGiverSets>
-				<li>OrganicStandard</li>
+				<li>DragonianInate</li>
 			</hediffGiverSets>
 		</race>
 		<recipes>   
