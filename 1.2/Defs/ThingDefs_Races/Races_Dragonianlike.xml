@@ -25,7 +25,7 @@
 					<!--색상관련 -->
 					<colorChannels>
 						<li>
-							<name>DR_ColorChannelSkin</name>
+							<name>skin</name>
 							<first Class="ColorGenerator_Options">
 								<options>
 									<li>
@@ -36,7 +36,7 @@
 							</first>				
 						</li>
 						<li>
-							<name>DR_ColorChannelHair</name>
+							<name>hair</name>
 							<first Class="ColorGenerator_Options">
 								<options>
 									<li>
@@ -396,7 +396,7 @@
 					<!--색상관련 -->
 					<colorChannels>
 						<li>
-							<name>DR_ColorChannelSkin</name>
+							<name>skin</name>
 							<first Class="ColorGenerator_Options">
 								<options>
 									<li>
@@ -407,7 +407,7 @@
 							</first>				
 						</li>
 						<li>
-							<name>DR_ColorChannelHair</name>
+							<name>hair</name>
 							<first Class="ColorGenerator_Options">
 								<options>
 									<li>
