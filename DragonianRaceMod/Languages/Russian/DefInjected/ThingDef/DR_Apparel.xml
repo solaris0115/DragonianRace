@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BasicWear.label>женская драконья одежда</DR_BasicWear.label>
+  <DR_BasicWear.description>Это основная одежда Драгонианов. До сих пор неясно, как они одеваются и делают её.</DR_BasicWear.description>
+
+  <DR_BasicDress.label>основное драконье платье</DR_BasicDress.label>
+  <DR_BasicDress.description>Платье, украшенное лентой и декоративными цветами. Грудь чётко обнажена.</DR_BasicDress.description>
+
+  <DR_GreekDress.label>драконье платье A</DR_GreekDress.label>
+  <DR_GreekDress.description>Греческое платье №1.</DR_GreekDress.description>
+
+  <DR_GreekHanZo.label>драконье платье B</DR_GreekHanZo.label>
+  <DR_GreekHanZo.description>Греческое платье №2.</DR_GreekHanZo.description>
+
+  <DR_GreekPriest.label>драконье платье C</DR_GreekPriest.label>
+  <DR_GreekPriest.description>Греческое платье №3.</DR_GreekPriest.description>
+
+  <DR_GreekSexyDress.label>драконье платье D</DR_GreekSexyDress.label>
+  <DR_GreekSexyDress.description>Греческое платье №4.</DR_GreekSexyDress.description>
+
+  <DR_GreekString.label>драконье платье E</DR_GreekString.label>
+  <DR_GreekString.description>Греческое платье №5.</DR_GreekString.description>
+
+  <DR_JapaneseDress.label>японское драконье платье</DR_JapaneseDress.label>
+  <DR_JapaneseDress.description>Японское драконье платье.</DR_JapaneseDress.description>
+
+  <DR_Onepiece.label>лёгкое драконье платье</DR_Onepiece.label>
+  <DR_Onepiece.description>Лёгкое драконье платье.</DR_Onepiece.description>
+
+  <DR_EveningDress.label>роскошное драконье платье</DR_EveningDress.label>
+  <DR_EveningDress.description>Крутое вечернее платье.</DR_EveningDress.description>
+
+  <DR_Hat.label>драконья заколка-цветок</DR_Hat.label>
+  <DR_Hat.description>Украшение для волос в форме цветка.</DR_Hat.description>
+
+  <DR_JapanHairAcc.label>драконья заколка в японском стиле</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.description>Японское украшение для волос.</DR_JapanHairAcc.description>
+
+  <DR_Necklace.label>драконье ожерелье-колокольчик</DR_Necklace.label>
+  <DR_Necklace.description>Драконье ожерелье с колокольчиком.</DR_Necklace.description>
+
+  <DR_BellNecklace.label>драконье ожерелье</DR_BellNecklace.label>
+  <DR_BellNecklace.description>Драконье ожерелье.</DR_BellNecklace.description>
+
+  <DR_SunHat.label>драконья летняя шляпа</DR_SunHat.label>
+  <DR_SunHat.description>Широкая летняя шляпа.</DR_SunHat.description>
+
+  <DR_FlowerRibon.label>драконья лента с цветком</DR_FlowerRibon.label>
+  <DR_FlowerRibon.description>Украшение из ленты и декоративного цветка.</DR_FlowerRibon.description>
+
+  <DR_MaleDress.label>мужская драконья одежда</DR_MaleDress.label>
+  <DR_MaleDress.description>Это основная одежда Драгонианов. До сих пор неясно, как они одеваются и делают её.</DR_MaleDress.description>
+
+  <DR_BattleDress.label>женское боевое драконье платье</DR_BattleDress.label>
+  <DR_BattleDress.description>Бронированное драконье платье.</DR_BattleDress.description>
+
+  <DR_BattleHelm.label>женский боевой драконий шлем</DR_BattleHelm.label>
+  <DR_BattleHelm.description>Лёгкий боевой шлем со сложным дизайном.</DR_BattleHelm.description>
+
+  <DR_BattleDressMale.label>мужское боевое драконье платье</DR_BattleDressMale.label>
+  <DR_BattleDressMale.description>Бронированное драконье платье.</DR_BattleDressMale.description>
+
+  <DR_BattleHelmMale.label>мужской боевой драконий шлем</DR_BattleHelmMale.label>
+  <DR_BattleHelmMale.description>Лёгкий боевой шлем со сложным дизайном.</DR_BattleHelmMale.description>
+
+</LanguageData>

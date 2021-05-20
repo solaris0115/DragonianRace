@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_InstallFakeTail.label>드라고니안 가짜 꼬리 설치</DR_InstallFakeTail.label>
+  <DR_InstallFakeTail.description>드라고니안 가짜 꼬리를 설치합니다.</DR_InstallFakeTail.description>
+  <DR_InstallFakeTail.jobString>드라고니안 가짜 꼬리 설치 중.</DR_InstallFakeTail.jobString>
+
+  <DR_InstallBionicTail.label>드라고니안 생체공학 꼬리 설치</DR_InstallBionicTail.label>
+  <DR_InstallBionicTail.description>드라고니안 생체공학 꼬리를 설치합니다.</DR_InstallBionicTail.description>
+  <DR_InstallBionicTail.jobString>드라고니안 생체공학 꼬리 설치 중</DR_InstallBionicTail.jobString>
+
+
+</LanguageData>

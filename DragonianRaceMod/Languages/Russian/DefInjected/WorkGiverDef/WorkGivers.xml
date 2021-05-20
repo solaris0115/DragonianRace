@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkDragonian.label>Доить Драгониана</MilkDragonian.label>
+  <MilkDragonian.verb>Доить</MilkDragonian.verb>
+  <MilkDragonian.gerund>Доить</MilkDragonian.gerund>
+
+  <ShearDragonian.label>Стричь Драгониана</ShearDragonian.label>
+  <ShearDragonian.verb>Стричь</ShearDragonian.verb>
+  <ShearDragonian.gerund>Стричь</ShearDragonian.gerund>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkDragonian.label>드라고니안 우유</MilkDragonian.label>
+  <MilkDragonian.verb>착유</MilkDragonian.verb>
+  <MilkDragonian.gerund>착유</MilkDragonian.gerund>
+
+  <ShearDragonian.label>드라고니안 털</ShearDragonian.label>
+  <ShearDragonian.verb>털 깎기</ShearDragonian.verb>
+  <ShearDragonian.gerund>털 깍기</ShearDragonian.gerund>
+
+
+</LanguageData>

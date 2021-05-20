@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Female.label>女性 ドラコニアン</Dragonian_Female.label>
+  <Dragonian_Female.description>人間とドラゴンの特徴を持った美しい生命体です。主に野外で目撃されます。その銀色髪の毛は、高い強度と柔らかさによって闇市場で高く取引されており、多くの場合、密猟者たたちの標的にされたりします。</Dragonian_Female.description>
+  <Dragonian_Female.tools.teeth.label>歯</Dragonian_Female.tools.teeth.label>
+  <Dragonian_Female.tools.left_fist.label>左こぶし</Dragonian_Female.tools.left_fist.label>
+  <Dragonian_Female.tools.right_fist.label>右こぶし</Dragonian_Female.tools.right_fist.label>
+  <Dragonian_Female.tools.tail.label>尻尾</Dragonian_Female.tools.tail.label>
+
+  <Dragonian_Male.label>男性 ドラコニアン</Dragonian_Male.label>
+  <Dragonian_Male.description>人間とドラゴンの特徴を持った美しい生命体です。主に野外で目撃されます。その銀色髪の毛は、高い強度と柔らかさによって闇市場で高く取引されており、多くの場合、密猟者たたちの標的にされたりします。</Dragonian_Male.description>
+  <Dragonian_Male.tools.teeth.label>歯</Dragonian_Male.tools.teeth.label>
+  <Dragonian_Male.tools.left_fist.label>左こぶし</Dragonian_Male.tools.left_fist.label>
+  <Dragonian_Male.tools.right_fist.label>右こぶし</Dragonian_Male.tools.right_fist.label>
+  <Dragonian_Male.tools.tail.label>尻尾</Dragonian_Male.tools.tail.label>
+
+</LanguageData>

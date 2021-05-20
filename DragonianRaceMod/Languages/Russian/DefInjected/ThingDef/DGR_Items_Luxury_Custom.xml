@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DragonianHorn.label>рог Драгониана</DragonianHorn.label>
+  <DragonianHorn.description>Рог Драгониана.</DragonianHorn.description>
+  <DragonianOrb.label>шар Драгониана</DragonianOrb.label>
+  <DragonianOrb.description>Шар Драгониана.</DragonianOrb.description>
+  <DragonianOrb.comps.1.useLabel>Активировать</DragonianOrb.comps.1.useLabel>
+
+</LanguageData>

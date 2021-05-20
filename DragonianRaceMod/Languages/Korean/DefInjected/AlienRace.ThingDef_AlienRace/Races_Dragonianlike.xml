@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Female.label>드라고니안</Dragonian_Female.label>
+  <Dragonian_Female.description>인간과 용의 특징을 가진 아름다운 생명체입니다. 야생에서 주로 목격됩니다. 그들의 은발의 털은 강도가 높고 부드러워 암시장에서 비싸게 거래되 종종 사냥꾼들의 표적이 되곤 합니다.</Dragonian_Female.description>
+  <Dragonian_Female.tools.0.label>이</Dragonian_Female.tools.0.label>
+  <Dragonian_Female.tools.1.label>왼 손톱</Dragonian_Female.tools.1.label>
+  <Dragonian_Female.tools.2.label>오른 손톱</Dragonian_Female.tools.2.label>
+  <Dragonian_Female.tools.3.label>꼬리</Dragonian_Female.tools.3.label>
+
+  <Dragonian_Male.label>드라고니안</Dragonian_Male.label>
+  <Dragonian_Male.description>인간과 용의 특징을 가진 아름다운 생명체입니다. 야생에서 주로 목격됩니다. 그들의 은발의 털은 강도가 높고 부드러워 암시장에서 비싸게 거래되 종종 사냥꾼들의 표적이 되곤 합니다.</Dragonian_Male.description>
+  <Dragonian_Male.tools.0.label>이</Dragonian_Male.tools.0.label>
+  <Dragonian_Male.tools.1.label>왼 손톱</Dragonian_Male.tools.1.label>
+  <Dragonian_Male.tools.2.label>오른 손톱</Dragonian_Male.tools.2.label>
+  <Dragonian_Male.tools.3.label>꼬리</Dragonian_Male.tools.3.label>
+
+</LanguageData>

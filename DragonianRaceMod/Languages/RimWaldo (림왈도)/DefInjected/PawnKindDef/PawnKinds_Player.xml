@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Slave_Male.label>드라고니안 노예</Dragonian_Slave_Male.label>
+  <Dragonian_Slave_Male.labelPlural>드라고니안 노예들</Dragonian_Slave_Male.labelPlural>
+  <Dragonian_Slave_Male.labelMale>남성 드라고니안 노예</Dragonian_Slave_Male.labelMale>
+  <Dragonian_Slave_Male.labelMalePlural>남성 드라고니안 노예들</Dragonian_Slave_Male.labelMalePlural>
+  <Dragonian_Slave_Male.labelFemale>여성 드라고니안 노예</Dragonian_Slave_Male.labelFemale>
+  <Dragonian_Slave_Male.labelFemalePlural>여성 드라고니안 노예들</Dragonian_Slave_Male.labelFemalePlural>
+
+  <Dragonian_Slave_Female.label>드라고니안 노예</Dragonian_Slave_Female.label>
+  <Dragonian_Slave_Female.labelPlural>드라고니안 노예들</Dragonian_Slave_Female.labelPlural>
+  <Dragonian_Slave_Female.labelMale>남성 드라고니안 노예</Dragonian_Slave_Female.labelMale>
+  <Dragonian_Slave_Female.labelMalePlural>남성 드라고니안 노예들</Dragonian_Slave_Female.labelMalePlural>
+  <Dragonian_Slave_Female.labelFemale>여성 드라고니안 노예</Dragonian_Slave_Female.labelFemale>
+  <Dragonian_Slave_Female.labelFemalePlural>여성 드라고니안 노예들</Dragonian_Slave_Female.labelFemalePlural>
+
+  <Dragonian_Female.label>야생 드라고니안</Dragonian_Female.label>
+  <Dragonian_Female.labelPlural>야생 드라고니안</Dragonian_Female.labelPlural>
+  <Dragonian_Female.labelMale>남성 야생 드라고니안</Dragonian_Female.labelMale>
+  <Dragonian_Female.labelMalePlural>남성 야생 드라고니안</Dragonian_Female.labelMalePlural>
+  <Dragonian_Female.labelFemale>야생 드라고니안</Dragonian_Female.labelFemale>
+  <Dragonian_Female.labelFemalePlural>야생 드라고니안</Dragonian_Female.labelFemalePlural>
+
+  <Dragonian_Male.label>야생 드라고니안</Dragonian_Male.label>
+  <Dragonian_Male.labelPlural>야생 드라고니안</Dragonian_Male.labelPlural>
+  <Dragonian_Male.labelMale>남성 야생 드라고니안</Dragonian_Male.labelMale>
+  <Dragonian_Male.labelMalePlural>남성 야생 드라고니안</Dragonian_Male.labelMalePlural>
+  <Dragonian_Male.labelFemale>여성 야생 드라고니안</Dragonian_Male.labelFemale>
+  <Dragonian_Male.labelFemalePlural>여성 야생 드라고니안</Dragonian_Male.labelFemalePlural>
+
+</LanguageData>

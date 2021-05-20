@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_FakeTail.label>DR ニセ尻尾</DR_FakeTail.label>
+  <DR_FakeTail.description>革で作る偽物のドラコニアン用尻尾です。</DR_FakeTail.description>
+
+  <DR_BionicTail.label>DR 強化尻尾</DR_BionicTail.label>
+  <DR_BionicTail.description>高性能な人工的なドラコニアンの尻尾です。自動的に装着者の歩行バランスをサポートする小さなAIが内蔵されています。</DR_BionicTail.description>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_WildChild.title>ドラコニアン野生児</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>野生ドラコ</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef]は、ドラコニアンの野生児です。</Dragonian_WildChild.baseDescription>
+
+  <Dragonian_Wild.title>野生ドラコニアン</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>原始ドラコ</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef]は、野生のドラコニアンです。</Dragonian_Wild.baseDescription>
+
+  <Dragonian_SlaveChild.title>ドラコニアンの捨て子</Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.titleShort>捨てドラコ</Dragonian_SlaveChild.titleShort>
+  <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef]は、人間の手で育てられたドラコニアンです。</Dragonian_SlaveChild.baseDescription>
+
+  <Dragonian_Slave.title>飼いドラコニアン</Dragonian_Slave.title>
+  <Dragonian_Slave.titleShort>飼いドラコ</Dragonian_Slave.titleShort>
+  <Dragonian_Slave.baseDescription>[PAWN_nameDef]は、人間に育てられたドラコニアンです。今は主人が亡くなり放浪しています。</Dragonian_Slave.baseDescription>
+
+</LanguageData>

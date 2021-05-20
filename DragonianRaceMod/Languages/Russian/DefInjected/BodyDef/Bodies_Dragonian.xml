@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian.label>драгониан</Dragonian.label>
+  <Dragonian.corePart.parts.3.customLabel>хвост</Dragonian.corePart.parts.3.customLabel>
+  <Dragonian.corePart.parts.7.customLabel>левое лёгкое</Dragonian.corePart.parts.7.customLabel>
+  <Dragonian.corePart.parts.8.customLabel>правое лёгкое</Dragonian.corePart.parts.8.customLabel>
+  <Dragonian.corePart.parts.9.customLabel>левая почка</Dragonian.corePart.parts.9.customLabel>
+  <Dragonian.corePart.parts.10.customLabel>правая почка</Dragonian.corePart.parts.10.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.1.customLabel>левый глаз</Dragonian.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.2.customLabel>правый глаз</Dragonian.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.3.customLabel>левое ухо</Dragonian.corePart.parts.12.parts.0.parts.3.customLabel>
+  <Dragonian.corePart.parts.12.parts.0.parts.4.customLabel>правое ухо</Dragonian.corePart.parts.12.parts.0.parts.4.customLabel>
+  <Dragonian.corePart.parts.13.customLabel>левое плечо</Dragonian.corePart.parts.13.customLabel>
+  <Dragonian.corePart.parts.13.parts.0.customLabel>левая ключица</Dragonian.corePart.parts.13.parts.0.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.customLabel>левая рука</Dragonian.corePart.parts.13.parts.1.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.0.customLabel>левая плечевая кость</Dragonian.corePart.parts.13.parts.1.parts.0.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.1.customLabel>левая лучевая кость</Dragonian.corePart.parts.13.parts.1.parts.1.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.customLabel>левая кисть</Dragonian.corePart.parts.13.parts.1.parts.2.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>мизинец левой руки</Dragonian.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>безымянный палец левой руки</Dragonian.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>средний палец левой руки</Dragonian.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>указательный палец левой руки</Dragonian.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>большой палец левой руки</Dragonian.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+  <Dragonian.corePart.parts.14.customLabel>правое плечо</Dragonian.corePart.parts.14.customLabel>
+  <Dragonian.corePart.parts.14.parts.0.customLabel>правая ключица</Dragonian.corePart.parts.14.parts.0.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.customLabel>правая рука</Dragonian.corePart.parts.14.parts.1.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.0.customLabel>правая плечевая кость</Dragonian.corePart.parts.14.parts.1.parts.0.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.1.customLabel>правая лучевая кость</Dragonian.corePart.parts.14.parts.1.parts.1.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.customLabel>правая кисть</Dragonian.corePart.parts.14.parts.1.parts.2.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>мизинец правой руки</Dragonian.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>безымянный палец правой руки</Dragonian.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>средний палец правой руки</Dragonian.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>указательный палец правой руки</Dragonian.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>большой палец правой руки</Dragonian.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+  <Dragonian.corePart.parts.16.customLabel>левая нога</Dragonian.corePart.parts.16.customLabel>
+  <Dragonian.corePart.parts.16.parts.0.customLabel>левое бедро</Dragonian.corePart.parts.16.parts.0.customLabel>
+  <Dragonian.corePart.parts.16.parts.1.customLabel>левая голень</Dragonian.corePart.parts.16.parts.1.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.customLabel>левая стопа</Dragonian.corePart.parts.16.parts.2.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.0.customLabel>мизинец левой ноги</Dragonian.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.1.customLabel>безымянный палец левой ноги</Dragonian.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.2.customLabel>средний палец левой ноги</Dragonian.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.3.customLabel>указательный палец левой ноги</Dragonian.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.16.parts.2.parts.4.customLabel>большой палец левой ноги</Dragonian.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Dragonian.corePart.parts.17.customLabel>правая нога</Dragonian.corePart.parts.17.customLabel>
+  <Dragonian.corePart.parts.17.parts.0.customLabel>правое бедро</Dragonian.corePart.parts.17.parts.0.customLabel>
+  <Dragonian.corePart.parts.17.parts.1.customLabel>правая голень</Dragonian.corePart.parts.17.parts.1.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.customLabel>правая стопа</Dragonian.corePart.parts.17.parts.2.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.0.customLabel>мизинец правой ноги</Dragonian.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.1.customLabel>безымянный палец правой ноги</Dragonian.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.2.customLabel>средний палец правой ноги</Dragonian.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.3.customLabel>указательный палец правой ноги</Dragonian.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Dragonian.corePart.parts.17.parts.2.parts.4.customLabel>большой палец правой ноги</Dragonian.corePart.parts.17.parts.2.parts.4.customLabel>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_AutoRecovery.label>自動回復</Dragonian_AutoRecovery.label>
+  <Dragonian_AutoRecovery.description>高速で自己治癒します</Dragonian_AutoRecovery.description>
+  <Dragonian_AutoRecovery.stages.permanent.label>永続</Dragonian_AutoRecovery.stages.permanent.label>
+
+</LanguageData>

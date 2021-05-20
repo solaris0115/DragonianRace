@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<AlienRace.RaceSettings>
+		<defName>DR_Race_Setting</defName>
+		<pawnKindSettings>
+			<alienslavekinds>
+				<li>
+					<kindDefs>
+						<li>Dragonian_Slave_Female</li>
+					</kindDefs>
+					<chance>25.0</chance>
+				</li>				<li>
+					<kindDefs>
+						<li>Dragonian_Slave_Male</li>
+					</kindDefs>
+					<chance>25.0</chance>
+				</li>
+			</alienslavekinds>
+		</pawnKindSettings>
+	</AlienRace.RaceSettings>
+</Defs>

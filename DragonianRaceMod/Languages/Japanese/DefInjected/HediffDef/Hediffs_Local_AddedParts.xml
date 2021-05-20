@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_BionicTail.label>強化尻尾</DR_BionicTail.label>
+  <DR_BionicTail.description>強化された人工的な尻尾です。また、装着者の移動を自動的に補正する小さなAIが内蔵されています。</DR_BionicTail.description>
+  <DR_BionicTail.labelNoun>強化尻尾</DR_BionicTail.labelNoun>
+
+  <DR_FakeTail.label>ニセ尻尾</DR_FakeTail.label>
+  <DR_FakeTail.description>皮で出来た偽物の尻尾です。</DR_FakeTail.description>
+  <DR_FakeTail.labelNoun>ニセ尻尾</DR_FakeTail.labelNoun>
+
+</LanguageData>

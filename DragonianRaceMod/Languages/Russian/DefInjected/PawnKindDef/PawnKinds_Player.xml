@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Slave_Male.label>драгониан-раб</Dragonian_Slave_Male.label>
+  <Dragonian_Slave_Male.labelPlural>драгониан-рабы</Dragonian_Slave_Male.labelPlural>
+  <Dragonian_Slave_Male.labelMale>драгониан-раб</Dragonian_Slave_Male.labelMale>
+  <Dragonian_Slave_Male.labelMalePlural>драгониан-рабы</Dragonian_Slave_Male.labelMalePlural>
+  <Dragonian_Slave_Male.labelFemale>драгониан-раб</Dragonian_Slave_Male.labelFemale>
+  <Dragonian_Slave_Male.labelFemalePlural>драгониан-рабы</Dragonian_Slave_Male.labelFemalePlural>
+
+  <Dragonian_Slave_Female.label>драгониан-рабыня</Dragonian_Slave_Female.label>
+  <Dragonian_Slave_Female.labelPlural>драгониан-рабыни</Dragonian_Slave_Female.labelPlural>
+  <Dragonian_Slave_Female.labelMale>драгониан-рабыня</Dragonian_Slave_Female.labelMale>
+  <Dragonian_Slave_Female.labelMalePlural>драгониан-рабыни</Dragonian_Slave_Female.labelMalePlural>
+  <Dragonian_Slave_Female.labelFemale>драгониан-рабыня</Dragonian_Slave_Female.labelFemale>
+  <Dragonian_Slave_Female.labelFemalePlural>драгониан-рабыни</Dragonian_Slave_Female.labelFemalePlural>
+
+  <Dragonian_Female.label>дикая драгониан</Dragonian_Female.label>
+  <Dragonian_Female.labelPlural>дикие драгонианы</Dragonian_Female.labelPlural>
+  <Dragonian_Female.labelMale>дикая драгониан</Dragonian_Female.labelMale>
+  <Dragonian_Female.labelMalePlural>дикие драгонианы</Dragonian_Female.labelMalePlural>
+  <Dragonian_Female.labelFemale>дикая драгониан</Dragonian_Female.labelFemale>
+  <Dragonian_Female.labelFemalePlural>дикие драгонианы</Dragonian_Female.labelFemalePlural>
+
+  <Dragonian_Male.label>дикий драгониан</Dragonian_Male.label>
+  <Dragonian_Male.labelPlural>дикие драгонианы</Dragonian_Male.labelPlural>
+  <Dragonian_Male.labelMale>дикий драгониан</Dragonian_Male.labelMale>
+  <Dragonian_Male.labelMalePlural>дикие драгонианы</Dragonian_Male.labelMalePlural>
+  <Dragonian_Male.labelFemale>дикий драгониан</Dragonian_Male.labelFemale>
+  <Dragonian_Male.labelFemalePlural>дикие драгонианы</Dragonian_Male.labelFemalePlural>
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_WildChild.title>야생 드라고니안</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>야생 드라고</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef](은)는 야생 드라고니안 입니다.</Dragonian_WildChild.baseDescription>
+
+  <Dragonian_Wild.title>야생 드라고니안</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>야생 드라고니안</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef](은)는 야생 드라고니안 입니다.</Dragonian_Wild.baseDescription>
+
+  <Dragonian_SlaveChild.title>버려진 드라고니안 </Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.titleShort>버려진 드라고</Dragonian_SlaveChild.titleShort>
+  <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef](은)는 인간 손에 의해 길러졌던 드라고니안 입니다.</Dragonian_SlaveChild.baseDescription>
+
+  <Dragonian_Slave.title>버려진 드라고니안</Dragonian_Slave.title>
+  <Dragonian_Slave.titleShort>버려진 드라고</Dragonian_Slave.titleShort>
+  <Dragonian_Slave.baseDescription>[PAWN_nameDef](은)는 인간 손에 의해 길러졌던 드라고니안 입니다. 지금은 주인 없이 떠돌아 다니고 있습니다.</Dragonian_Slave.baseDescription>
+
+
+</LanguageData>

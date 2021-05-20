@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<JobDef>
+		<defName>MilkingDragonian</defName>
+		<driverClass>Dragonian.JobDriver_MilkDragonian</driverClass>
+		<reportString>milking TargetA.</reportString>
+		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+	</JobDef>  
+	<JobDef>
+		<defName>ShearingDragonian</defName>
+		<driverClass>Dragonian.JobDriver_ShearDragonian</driverClass>
+		<reportString>shearing TargetA.</reportString>
+		<allowOpportunisticPrefix>true</allowOpportunisticPrefix>
+	</JobDef>
+
+</Defs>

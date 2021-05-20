@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_Dragonian.label>драгониан</DR_Dragonian.label>
+  <DR_Dragonian.description>Прекрасное, полурептильное существо с чертами мифического дракона и человека. Они ценятся браконьерами за их шелковистые, серебряные волосы, а другие стремятся поймать их за их высокую цену на черном рынке.</DR_Dragonian.description>
+  <DR_Dragonian.tools.0.label>левый кулак</DR_Dragonian.tools.0.label>
+  <DR_Dragonian.tools.1.label>правый кулак</DR_Dragonian.tools.1.label>
+  <DR_Dragonian.tools.2.label>хвост</DR_Dragonian.tools.2.label>
+  <DR_Dragonian_Meat.label>мясо драгониана</DR_Dragonian_Meat.label>
+  <DR_Dragonian_Meat.description>Сырое мясо. Может быть приготовлено или съедено в сыром виде.</DR_Dragonian_Meat.description>
+  <DR_Dragonian_Corpse.label>мёртвое тело драгониана</DR_Dragonian_Corpse.label>
+  <DR_Dragonian_Corpse.description>Мёртвое тело драгониана.</DR_Dragonian_Corpse.description>
+
+</LanguageData>

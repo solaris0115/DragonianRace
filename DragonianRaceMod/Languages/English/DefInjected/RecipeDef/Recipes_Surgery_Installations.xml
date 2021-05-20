@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_InstallFakeTail.label>install fake tail</DR_InstallFakeTail.label>
+  <DR_InstallFakeTail.description>Install a fake tail.</DR_InstallFakeTail.description>
+  <DR_InstallFakeTail.jobString>Installing fake tail.</DR_InstallFakeTail.jobString>
+
+  <DR_InstallBionicTail.label>install bionic tail</DR_InstallBionicTail.label>
+  <DR_InstallBionicTail.description>Install a bionic tail.</DR_InstallBionicTail.description>
+  <DR_InstallBionicTail.jobString>Installing bionic tail.</DR_InstallBionicTail.jobString>
+
+
+</LanguageData>

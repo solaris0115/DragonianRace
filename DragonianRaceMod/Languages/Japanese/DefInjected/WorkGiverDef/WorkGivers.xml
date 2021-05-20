@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MilkDragonian.label>ドラコニアンの搾乳</MilkDragonian.label>
+  <MilkDragonian.verb>搾乳</MilkDragonian.verb>
+  <MilkDragonian.gerund>を搾乳する</MilkDragonian.gerund>
+
+  <ShearDragonian.label>ドラコニアンの毛刈り</ShearDragonian.label>
+  <ShearDragonian.verb>毛刈り</ShearDragonian.verb>
+  <ShearDragonian.gerund>を毛刈りする</ShearDragonian.gerund>
+
+</LanguageData>

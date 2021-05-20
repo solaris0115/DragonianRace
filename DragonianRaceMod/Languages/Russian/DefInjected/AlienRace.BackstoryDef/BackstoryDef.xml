@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_WildChild.title>Дикий ребёнок Драгониан</Dragonian_WildChild.title>
+  <Dragonian_WildChild.titleShort>Дикий ребёнок</Dragonian_WildChild.titleShort>
+  <Dragonian_WildChild.baseDescription>[PAWN_nameDef] - это дикий Драгониан.</Dragonian_WildChild.baseDescription>
+
+  <Dragonian_Wild.title>Дикий Драгониан</Dragonian_Wild.title>
+  <Dragonian_Wild.titleShort>Дикий</Dragonian_Wild.titleShort>
+  <Dragonian_Wild.baseDescription>[PAWN_nameDef] - это дикий Драгониан.</Dragonian_Wild.baseDescription>
+
+  <Dragonian_SlaveChild.title>Брошенный ребёнок Драгониан</Dragonian_SlaveChild.title>
+  <Dragonian_SlaveChild.titleShort>Брошенный ребёнок</Dragonian_SlaveChild.titleShort>
+  <Dragonian_SlaveChild.baseDescription>[PAWN_nameDef] выращен(а) людьми, и брошен(а) в детстве.</Dragonian_SlaveChild.baseDescription>
+
+  <Dragonian_Slave.title>Брошенный Драгониан</Dragonian_Slave.title>
+  <Dragonian_Slave.titleShort>Брошенный</Dragonian_Slave.titleShort>
+  <Dragonian_Slave.baseDescription>[PAWN_nameDef] выращен(а) людьми, и брошен(а) в сознательном возрасте.</Dragonian_Slave.baseDescription>
+
+</LanguageData>

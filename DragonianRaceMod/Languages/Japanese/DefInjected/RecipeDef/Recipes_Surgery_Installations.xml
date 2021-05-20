@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DR_InstallFakeTail.label>DR ニセ尻尾 移植</DR_InstallFakeTail.label>
+  <DR_InstallFakeTail.description>ドラコニアンのニセ尻尾を移植します。</DR_InstallFakeTail.description>
+  <DR_InstallFakeTail.jobString>DR ニセ尻尾を移植中</DR_InstallFakeTail.jobString>
+
+  <DR_InstallBionicTail.label>DR 強化尻尾 移植</DR_InstallBionicTail.label>
+  <DR_InstallBionicTail.description>ドラコニアンの強化尻尾を移植します。</DR_InstallBionicTail.description>
+  <DR_InstallBionicTail.jobString>DR 強化尻尾を移植中</DR_InstallBionicTail.jobString>
+
+</LanguageData>

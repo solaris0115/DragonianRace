@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
+
+  <Make_DR_FakeTail.label>DR ニセ尻尾を縫う</Make_DR_FakeTail.label>
+  <Make_DR_FakeTail.description>ドラコニアンのニセ尻尾を縫う。</Make_DR_FakeTail.description>
+  <Make_DR_FakeTail.jobString>DR ニセ尻尾を縫製中</Make_DR_FakeTail.jobString>
+
+
+  <!-- Recipe Users: FabricationBench -->
+
+  <Make_DR_BionicTail.label>DR 強化尻尾を作る</Make_DR_BionicTail.label>
+  <Make_DR_BionicTail.description>ドラコニアンの強化尻尾を作る。</Make_DR_BionicTail.description>
+  <Make_DR_BionicTail.jobString>DR 強化尻尾を製作中</Make_DR_BionicTail.jobString>
+
+
+  <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench -->
+
+  <Make_DR_BasicWear.label>DR 普通の服を縫う</Make_DR_BasicWear.label>
+  <Make_DR_BasicWear.description>DR 普通の服を縫う。</Make_DR_BasicWear.description>
+  <Make_DR_BasicWear.jobString>DR 普通の服を縫製中</Make_DR_BasicWear.jobString>
+
+  <Make_DR_BasicDress.label>DR 普通のドレスを縫う</Make_DR_BasicDress.label>
+  <Make_DR_BasicDress.description>DR 普通のドレスを縫う。</Make_DR_BasicDress.description>
+  <Make_DR_BasicDress.jobString>DR 普通のドレスを縫製中</Make_DR_BasicDress.jobString>
+  
+  <Make_DR_GreekDress.label>DR ドレスAを縫う</Make_DR_GreekDress.label>
+  <Make_DR_GreekDress.description>DR ドレスAを縫う。</Make_DR_GreekDress.description>
+  <Make_DR_GreekDress.jobString>DR ドレスAを縫製中</Make_DR_GreekDress.jobString>
+
+  <Make_DR_GreekHanZo.label>DR ドレスBを縫う</Make_DR_GreekHanZo.label>
+  <Make_DR_GreekHanZo.description>DR ドレスBを縫う。</Make_DR_GreekHanZo.description>
+  <Make_DR_GreekHanZo.jobString>DR ドレスBを縫製中</Make_DR_GreekHanZo.jobString>
+
+  <Make_DR_GreekPriest.label>DR ドレスCを縫う</Make_DR_GreekPriest.label>
+  <Make_DR_GreekPriest.description>DR ドレスCを縫う。</Make_DR_GreekPriest.description>
+  <Make_DR_GreekPriest.jobString>DR ドレスCを縫製中</Make_DR_GreekPriest.jobString>
+
+  <Make_DR_GreekSexyDress.label>DR ドレスDを縫う</Make_DR_GreekSexyDress.label>
+  <Make_DR_GreekSexyDress.description>DR ドレスDを縫う。</Make_DR_GreekSexyDress.description>
+  <Make_DR_GreekSexyDress.jobString>DR ドレスDを縫製中</Make_DR_GreekSexyDress.jobString>
+
+  <Make_DR_GreekString.label>DR ドレスEを縫う</Make_DR_GreekString.label>
+  <Make_DR_GreekString.description>DR ドレスEを縫う。</Make_DR_GreekString.description>
+  <Make_DR_GreekString.jobString>DR ドレスEを縫製中</Make_DR_GreekString.jobString>
+
+  <Make_DR_JapaneseDress.label>DR ドレスFを縫う</Make_DR_JapaneseDress.label>
+  <Make_DR_JapaneseDress.description>DR ドレスFを縫う。</Make_DR_JapaneseDress.description>
+  <Make_DR_JapaneseDress.jobString>DR ドレスFを縫製中</Make_DR_JapaneseDress.jobString>
+
+  <Make_DR_Onepiece.label>DR ドレスGを縫う</Make_DR_Onepiece.label>
+  <Make_DR_Onepiece.description>DR ドレスGを縫う。</Make_DR_Onepiece.description>
+  <Make_DR_Onepiece.jobString>DR ドレスGを縫製中</Make_DR_Onepiece.jobString>
+
+  <Make_DR_EveningDress.label>DR ドレスHを縫う</Make_DR_EveningDress.label>
+  <Make_DR_EveningDress.description>DR ドレスHを縫う。</Make_DR_EveningDress.description>
+  <Make_DR_EveningDress.jobString>DR ドレスHを縫製中</Make_DR_EveningDress.jobString>
+
+  <Make_DR_Hat.label>花飾りを縫う</Make_DR_Hat.label>
+  <Make_DR_Hat.description>花飾りを縫う。</Make_DR_Hat.description>
+  <Make_DR_Hat.jobString>花飾りを縫製中</Make_DR_Hat.jobString>
+
+  <Make_DR_JapanHairAcc.label>かんざしを縫う</Make_DR_JapanHairAcc.label>
+  <Make_DR_JapanHairAcc.description>かんざしを縫う。</Make_DR_JapanHairAcc.description>
+  <Make_DR_JapanHairAcc.jobString>かんざしを縫製中</Make_DR_JapanHairAcc.jobString>
+
+  <Make_DR_Necklace.label>鈴付きの首輪を縫う</Make_DR_Necklace.label>
+  <Make_DR_Necklace.description>鈴付きの首輪を縫う。</Make_DR_Necklace.description>
+  <Make_DR_Necklace.jobString>鈴付きの首輪を縫製中</Make_DR_Necklace.jobString>
+
+  <Make_DR_BellNecklace.label>鈴付きのネックレスを縫う</Make_DR_BellNecklace.label>
+  <Make_DR_BellNecklace.description>鈴付きのネックレス</Make_DR_BellNecklace.description>
+  <Make_DR_BellNecklace.jobString>鈴付きのネックレスを縫製中</Make_DR_BellNecklace.jobString>
+
+  <Make_DR_SunHat.label>花飾りついた帽子を縫う</Make_DR_SunHat.label>
+  <Make_DR_SunHat.description>花飾りついた帽子を縫う。</Make_DR_SunHat.description>
+  <Make_DR_SunHat.jobString>花飾りついた帽子を縫製中</Make_DR_SunHat.jobString>
+
+  <Make_DR_FlowerRibon.label>フラワーリボンを縫う</Make_DR_FlowerRibon.label>
+  <Make_DR_FlowerRibon.description>フラワーリボンを縫う。</Make_DR_FlowerRibon.description>
+  <Make_DR_FlowerRibon.jobString>フラワーリボンを縫製中</Make_DR_FlowerRibon.jobString>
+
+  <Make_DR_MaleDress.label>DR 伝統衣装を縫う</Make_DR_MaleDress.label>
+  <Make_DR_MaleDress.description>DR 伝統衣装を縫う。</Make_DR_MaleDress.description>
+  <Make_DR_MaleDress.jobString>DR 伝統衣装を縫製中</Make_DR_MaleDress.jobString>
+
+  <Make_DR_BattleDress.label>DR バトルドレスを縫う</Make_DR_BattleDress.label>
+  <Make_DR_BattleDress.description>DR バトルドレスを縫う。</Make_DR_BattleDress.description>
+  <Make_DR_BattleDress.jobString>DR バトルドレスを縫製中</Make_DR_BattleDress.jobString>
+
+  <Make_DR_BattleHelm.label>DR バトルヘルメットを作る</Make_DR_BattleHelm.label>
+  <Make_DR_BattleHelm.description>DR バトルヘルメットを作る。</Make_DR_BattleHelm.description>
+  <Make_DR_BattleHelm.jobString>DR バトルヘルメットを製作中</Make_DR_BattleHelm.jobString>
+
+  <Make_DR_BattleDressMale.label>DR バトルドレスH(男性用)を作る</Make_DR_BattleDressMale.label>
+  <Make_DR_BattleDressMale.description>DR バトルドレスH(男性用)を作る。</Make_DR_BattleDressMale.description>
+  <Make_DR_BattleDressMale.jobString>DR バトルドレスH(男性用)を製作中</Make_DR_BattleDressMale.jobString>
+
+  <Make_DR_BattleHelmMale.label>DR バトルヘルメット(男性用)を作る</Make_DR_BattleHelmMale.label>
+  <Make_DR_BattleHelmMale.description>DR バトルヘルメット(男性用)を作る。</Make_DR_BattleHelmMale.description>
+  <Make_DR_BattleHelmMale.jobString>DR バトルヘルメット(男性用)を製作中</Make_DR_BattleHelmMale.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy -->
+
+  <Make_DR_BattleHammer.label>DR バトルハンマーを作る</Make_DR_BattleHammer.label>
+  <Make_DR_BattleHammer.description>DR バトルハンマーを作る。</Make_DR_BattleHammer.description>
+  <Make_DR_BattleHammer.jobString>DR バトルハンマーを製作中</Make_DR_BattleHammer.jobString>
+
+</LanguageData>

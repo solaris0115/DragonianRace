@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Dragonian_Female.label>драгониан</Dragonian_Female.label>
+  <Dragonian_Female.description>Прекрасное, полурептильное существо с чертами мифического дракона и человека. Они ценятся браконьерами за их шелковистые, серебряные волосы, а другие стремятся поймать их за их высокую цену на черном рынке.</Dragonian_Female.description>
+  <Dragonian_Female.tools.0.label>зубы</Dragonian_Female.tools.0.label>
+  <Dragonian_Female.tools.1.label>левый кулак</Dragonian_Female.tools.1.label>
+  <Dragonian_Female.tools.2.label>правый кулак</Dragonian_Female.tools.2.label>
+  <Dragonian_Female.tools.3.label>хвост</Dragonian_Female.tools.3.label>
+  <Dragonian_Female_Meat.label>плоть драгониана</Dragonian_Female_Meat.label>
+  <Dragonian_Female_Corpse.label>мёртвое тело драгониана</Dragonian_Female_Corpse.label>
+  <Dragonian_Female_Corpse.description>Мёртвое тело драгониана.</Dragonian_Female_Corpse.description>
+
+  <Dragonian_Male.label>драгониан</Dragonian_Male.label>
+  <Dragonian_Male.description>Прекрасное, полурептильное существо с чертами мифического дракона и человека. Они ценятся браконьерами за их шелковистые, серебряные волосы, а другие стремятся поймать их за их высокую цену на черном рынке.</Dragonian_Male.description>
+  <Dragonian_Male.tools.0.label>зубы</Dragonian_Male.tools.0.label>
+  <Dragonian_Male.tools.1.label>левый кулак</Dragonian_Male.tools.1.label>
+  <Dragonian_Male.tools.2.label>правый кулак</Dragonian_Male.tools.2.label>
+  <Dragonian_Male.tools.3.label>хвост</Dragonian_Male.tools.3.label>
+  <Dragonian_Male_Meat.label>плоть драгониана</Dragonian_Male_Meat.label>
+  <Dragonian_Male_Corpse.label>мёртвое тело драгониана</Dragonian_Male_Corpse.label>
+  <Dragonian_Male_Corpse.description>Мёртвое тело драгониана.</Dragonian_Male_Corpse.description>
+
+</LanguageData>

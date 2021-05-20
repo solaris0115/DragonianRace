@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData> 
+
+  <!-- Apparel -->
+
+  <DR_BasicWear.label>DR 普通の服</DR_BasicWear.label>
+  <DR_BasicWear.description>ドラコニアンの一般的な衣装です。彼らがどのように服を作ったり着ているのか、詳しく判っていません。</DR_BasicWear.description>
+
+  <DR_BasicDress.label>DR 普通のドレス</DR_BasicDress.label>
+  <DR_BasicDress.description>リボンと花で装飾されたドレスです。彼らが野外でどうやって服を作ったり着ているのか、詳しく判っていません。</DR_BasicDress.description>
+
+  <DR_GreekDress.label>DR ドレスA</DR_GreekDress.label>
+  <DR_GreekDress.description>ひもで結んだ衣装です。</DR_GreekDress.description>
+
+  <DR_GreekHanZo.label>DR ドレスB</DR_GreekHanZo.label>
+  <DR_GreekHanZo.description>片方の肩から掛けている衣装です。</DR_GreekHanZo.description>
+
+  <DR_GreekPriest.label>DR ドレスC</DR_GreekPriest.label>
+  <DR_GreekPriest.description>体の前と後ろで長い布で覆われている衣装です。</DR_GreekPriest.description>
+
+  <DR_GreekSexyDress.label>DR ドレスD</DR_GreekSexyDress.label>
+  <DR_GreekSexyDress.description>2枚の布で覆った衣装です。</DR_GreekSexyDress.description>
+
+  <DR_GreekString.label>DR ドレスE</DR_GreekString.label>
+  <DR_GreekString.description>帯の代わりにひもで固定した衣装です。</DR_GreekString.description>
+
+  <DR_JapaneseDress.label>DR ドレスF</DR_JapaneseDress.label>
+  <DR_JapaneseDress.description>全身を覆う衣装です。</DR_JapaneseDress.description>
+
+
+  <!-- Add Apparel -->
+
+  <DR_Onepiece.label>DR ドレスG</DR_Onepiece.label>
+  <DR_Onepiece.description>横もあるワンピースです。</DR_Onepiece.description>
+
+
+  <!-- 0826 Evening Dress -->
+
+  <DR_EveningDress.label>DR ドレスH</DR_EveningDress.label>
+  <DR_EveningDress.description>大胆に脇の空いた涼し気なイブニングドレスです。</DR_EveningDress.description>
+
+
+  <!-- Hat -->
+
+  <DR_Hat.label>花飾り</DR_Hat.label>
+  <DR_Hat.description>花の形をした髪飾りです。</DR_Hat.description>
+
+  <DR_JapanHairAcc.label>かんざし</DR_JapanHairAcc.label>
+  <DR_JapanHairAcc.description>頭に差し込んで使う髪飾りです。</DR_JapanHairAcc.description>
+
+
+  <!-- Added hat -->
+
+  <DR_Necklace.label>鈴付きの首輪</DR_Necklace.label>
+  <DR_Necklace.description>鈴の付いた首輪です。</DR_Necklace.description>
+
+  <DR_BellNecklace.label>鈴付きのネックレス</DR_BellNecklace.label>
+  <DR_BellNecklace.description>鈴の付いたネックレスです。</DR_BellNecklace.description>
+
+  <DR_SunHat.label>花飾りついた帽子</DR_SunHat.label>
+  <DR_SunHat.description>太陽を遮ってくれるつばの広い帽子です。</DR_SunHat.description>
+
+
+  <!-- 0826 Add Ribbon -->
+
+  <DR_FlowerRibon.label>フラワーリボン</DR_FlowerRibon.label>
+  <DR_FlowerRibon.description>リボンと花があしらわれたオーナメントです。</DR_FlowerRibon.description>
+
+  <DR_MaleDress.label>DR 伝統衣装</DR_MaleDress.label>
+  <DR_MaleDress.description>ドラゴニアンの伝統的な衣装です。彼らがどのように着飾っているか、それを作るのかはまだ不明です。</DR_MaleDress.description>
+
+  <DR_BattleDress.label>DR バトルドレスH</DR_BattleDress.label>
+  <DR_BattleDress.description>装甲板が付いたの軽量のドレスアーマーです。</DR_BattleDress.description>
+
+  <DR_BattleHelm.label>DR バトルヘルメット</DR_BattleHelm.label>
+  <DR_BattleHelm.description>複雑なデザインの軽いバトルヘルムです。</DR_BattleHelm.description>
+
+  <DR_BattleDressMale.label>DR バトルドレスH(男性用)</DR_BattleDressMale.label>
+  <DR_BattleDressMale.description>装甲板が付いたの軽量のドレスアーマーです。</DR_BattleDressMale.description>
+
+  <DR_BattleHelmMale.label>DR バトルヘルメット(男性用)</DR_BattleHelmMale.label>
+  <DR_BattleHelmMale.description>複雑なデザインの軽いバトルヘルムです。</DR_BattleHelmMale.description>
+
+</LanguageData>

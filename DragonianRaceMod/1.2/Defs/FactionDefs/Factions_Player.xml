@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <FactionDef>
+    <defName>Dragonians_Hidden</defName>
+    <label>dragonians_hidden</label>
+    <pawnSingular>dragonian</pawnSingular>
+    <pawnsPlural>dragonians</pawnsPlural>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <fixedName>Dragonians</fixedName>
+    <factionIconPath>World/WorldObjects/Expanding/Sites/Manhunters</factionIconPath>
+    <hidden>true</hidden>
+    <autoFlee>false</autoFlee>
+    <techLevel>Animal</techLevel>
+    <hairTags>
+      <li>DR_Hair</li>
+      <li>DR_Hair_Male</li>
+    </hairTags>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>DragonianStory</li>
+        </categories>
+      </li>
+    </backstoryFilters>
+  </FactionDef>
+</Defs>

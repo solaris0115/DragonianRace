@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_DR_BasicWear.label>сшить женскую драконью одежду</Make_DR_BasicWear.label>
+  <Make_DR_BasicWear.description>Сшить женскую драконью одежду.</Make_DR_BasicWear.description>
+  <Make_DR_BasicWear.jobString>шьёт женскую драконью одежду</Make_DR_BasicWear.jobString>
+
+  <Make_DR_BasicDress.label>сшить основное драконье платье</Make_DR_BasicDress.label>
+  <Make_DR_BasicDress.description>Сшить основное драконье платье.</Make_DR_BasicDress.description>
+  <Make_DR_BasicDress.jobString>шьёт основное драконье платье</Make_DR_BasicDress.jobString>
+
+  <Make_DR_GreekDress.label>сшить драконье платье A</Make_DR_GreekDress.label>
+  <Make_DR_GreekDress.description>Сшить драконье платье A.</Make_DR_GreekDress.description>
+  <Make_DR_GreekDress.jobString>шьёт драконье платье A</Make_DR_GreekDress.jobString>
+
+  <Make_DR_GreekHanZo.label>сшить драконье платье B</Make_DR_GreekHanZo.label>
+  <Make_DR_GreekHanZo.description>Сшить драконье платье B.</Make_DR_GreekHanZo.description>
+  <Make_DR_GreekHanZo.jobString>шьёт драконье платье B</Make_DR_GreekHanZo.jobString>
+
+  <Make_DR_GreekPriest.label>сшить драконье платье C</Make_DR_GreekPriest.label>
+  <Make_DR_GreekPriest.description>Сшить драконье платье C.</Make_DR_GreekPriest.description>
+  <Make_DR_GreekPriest.jobString>шьёт драконье платье C</Make_DR_GreekPriest.jobString>
+
+  <Make_DR_GreekSexyDress.label>сшить драконье платье D</Make_DR_GreekSexyDress.label>
+  <Make_DR_GreekSexyDress.description>Сшить драконье платье D.</Make_DR_GreekSexyDress.description>
+  <Make_DR_GreekSexyDress.jobString>шьёт драконье платье D</Make_DR_GreekSexyDress.jobString>
+
+  <Make_DR_GreekString.label>сшить драконье платье E</Make_DR_GreekString.label>
+  <Make_DR_GreekString.description>Сшить драконье платье E.</Make_DR_GreekString.description>
+  <Make_DR_GreekString.jobString>шьёт драконье платье E</Make_DR_GreekString.jobString>
+
+  <Make_DR_JapaneseDress.label>сшить японское драконье платье</Make_DR_JapaneseDress.label>
+  <Make_DR_JapaneseDress.description>Сшить японское драконье платье.</Make_DR_JapaneseDress.description>
+  <Make_DR_JapaneseDress.jobString>шьёт японское драконье платье</Make_DR_JapaneseDress.jobString>
+
+  <Make_DR_Onepiece.label>сшить лёгкое драконье платье</Make_DR_Onepiece.label>
+  <Make_DR_Onepiece.description>Сшить лёгкое драконье платье.</Make_DR_Onepiece.description>
+  <Make_DR_Onepiece.jobString>шьёт лёгкое драконье платье</Make_DR_Onepiece.jobString>
+
+  <Make_DR_EveningDress.label>сшить роскошное драконье платье</Make_DR_EveningDress.label>
+  <Make_DR_EveningDress.description>Сшить роскошное драконье платье.</Make_DR_EveningDress.description>
+  <Make_DR_EveningDress.jobString>шьёт роскошное драконье платье</Make_DR_EveningDress.jobString>
+
+  <Make_DR_Hat.label>сделать драконью заколку-цветок</Make_DR_Hat.label>
+  <Make_DR_Hat.description>Сделать драконью заколку-цветок.</Make_DR_Hat.description>
+  <Make_DR_Hat.jobString>делает драконью заколку-цветок</Make_DR_Hat.jobString>
+
+  <Make_DR_JapanHairAcc.label>сделать драконью заколку в японском стиле</Make_DR_JapanHairAcc.label>
+  <Make_DR_JapanHairAcc.description>Сделать драконью заколку в японском стиле.</Make_DR_JapanHairAcc.description>
+  <Make_DR_JapanHairAcc.jobString>делает драконью заколку в японском стиле</Make_DR_JapanHairAcc.jobString>
+
+  <Make_DR_Necklace.label>сделать драконье ожерелье-колокольчик</Make_DR_Necklace.label>
+  <Make_DR_Necklace.description>Сделать драконье ожерелье-колокольчик.</Make_DR_Necklace.description>
+  <Make_DR_Necklace.jobString>делает драконье ожерелье-колокольчик</Make_DR_Necklace.jobString>
+
+  <Make_DR_BellNecklace.label>сделать драконье ожерелье</Make_DR_BellNecklace.label>
+  <Make_DR_BellNecklace.description>Сделать драконье ожерелье.</Make_DR_BellNecklace.description>
+  <Make_DR_BellNecklace.jobString>делает драконье ожерелье</Make_DR_BellNecklace.jobString>
+
+  <Make_DR_SunHat.label>сшить драконью летнюю шляпу</Make_DR_SunHat.label>
+  <Make_DR_SunHat.description>Сшить драконью летнюю шляпу.</Make_DR_SunHat.description>
+  <Make_DR_SunHat.jobString>шьёт драконью летнюю шляпу</Make_DR_SunHat.jobString>
+
+  <Make_DR_FlowerRibon.label>сшить драконью ленту с цветком</Make_DR_FlowerRibon.label>
+  <Make_DR_FlowerRibon.description>Сшить драконью ленту с цветком.</Make_DR_FlowerRibon.description>
+  <Make_DR_FlowerRibon.jobString>шьёт драконью ленту с цветком</Make_DR_FlowerRibon.jobString>
+
+  <Make_DR_MaleDress.label>сшить мужскую драконью одежду</Make_DR_MaleDress.label>
+  <Make_DR_MaleDress.description>Сшить мужскую драконью одежду.</Make_DR_MaleDress.description>
+  <Make_DR_MaleDress.jobString>шьёт мужскую драконью одежду</Make_DR_MaleDress.jobString>
+
+  <Make_DR_BattleDress.label>сшить женское боевое драконье платье</Make_DR_BattleDress.label>
+  <Make_DR_BattleDress.description>Сшить женское боевое драконье платье.</Make_DR_BattleDress.description>
+  <Make_DR_BattleDress.jobString>шьёт женское боевое драконье платье</Make_DR_BattleDress.jobString>
+
+  <Make_DR_BattleHelm.label>изготовить женский боевой драконий шлем</Make_DR_BattleHelm.label>
+  <Make_DR_BattleHelm.description>Изготовить женский боевой драконий шлем.</Make_DR_BattleHelm.description>
+  <Make_DR_BattleHelm.jobString>изготавливает женский боевой драконий шлем</Make_DR_BattleHelm.jobString>
+
+  <Make_DR_BattleDressMale.label>сшить мужское боевое драконье платье</Make_DR_BattleDressMale.label>
+  <Make_DR_BattleDressMale.description>Сшить мужское боевое драконье платье.</Make_DR_BattleDressMale.description>
+  <Make_DR_BattleDressMale.jobString>шьёт мужское боевое драконье платье</Make_DR_BattleDressMale.jobString>
+
+  <Make_DR_BattleHelmMale.label>изготовить мужской боевой драконий шлем</Make_DR_BattleHelmMale.label>
+  <Make_DR_BattleHelmMale.description>Изготовить мужской боевой драконий шлем.</Make_DR_BattleHelmMale.description>
+  <Make_DR_BattleHelmMale.jobString>изготавливает мужской боевой драконий шлем</Make_DR_BattleHelmMale.jobString>
+
+  <Make_DR_FakeTail.label>изготовить фальшивый драконий хвост</Make_DR_FakeTail.label>
+  <Make_DR_FakeTail.description>Изготовить фальшивый драконий хвост.</Make_DR_FakeTail.description>
+  <Make_DR_FakeTail.jobString>изготавливает фальшивый драконий хвост</Make_DR_FakeTail.jobString>
+
+  <Make_DR_BionicTail.label>изготовить бионический драконий хвост</Make_DR_BionicTail.label>
+  <Make_DR_BionicTail.description>Изготовить бионический драконий хвост.</Make_DR_BionicTail.description>
+  <Make_DR_BionicTail.jobString>изготавливает бионический драконий хвост</Make_DR_BionicTail.jobString>
+
+  <Make_DR_BattleHammer.label>выковать драконий боевой молот</Make_DR_BattleHammer.label>
+  <Make_DR_BattleHammer.description>Выковать драконий боевой молот.</Make_DR_BattleHammer.description>
+  <Make_DR_BattleHammer.jobString>куёт драконий боевой молот</Make_DR_BattleHammer.jobString>
+
+</LanguageData>
