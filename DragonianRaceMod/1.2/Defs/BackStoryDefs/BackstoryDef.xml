@@ -87,8 +87,6 @@
 				<chance>100</chance>
 			</li>
 		</disallowedTraits>
-		<maleCommonality>50</maleCommonality>
-		<femaleCommonality>50</femaleCommonality>
 	</AlienRace.BackstoryDef>
 
 	<AlienRace.BackstoryDef ParentName="BaseDragonianBackStory">

@@ -30,7 +30,7 @@
 								<options>
 									<li>
 										<weight>1</weight>
-										<only>RGBA(1.0,1.0,1.0,1)</only>
+										<only>(255,255,255)</only>
 									</li>
 								</options>
 							</first>				
@@ -41,14 +41,12 @@
 								<options>
 									<li>
 										<weight>1</weight>
-										<only>RGBA(255,255,255,255)</only>
+										<only>(255,255,255)</only>
 									</li>
-
 								</options>
 							</first>
 						</li>
 					</colorChannels>
-
 				</alienPartGenerator>
 				<disallowedTraits>
 					<li>
@@ -331,6 +329,8 @@
 			</ageGenerationCurve>
 			<hediffGiverSets>
 				<li>OrganicStandard</li>
+				<li>Human</li>
+				<li>Dragonian_Inate</li>
 			</hediffGiverSets>
 		</race>
 		<recipes>   
@@ -401,7 +401,7 @@
 								<options>
 									<li>
 										<weight>1</weight>
-										<only>RGBA(1.0,1.0,1.0,1)</only>
+										<only>(255,255,255)</only>
 									</li>
 								</options>
 							</first>				
@@ -412,14 +412,12 @@
 								<options>
 									<li>
 										<weight>1</weight>
-										<only>RGBA(255,255,255,255)</only>
+										<only>(255,255,255)</only>
 									</li>
 								</options>
 							</first>
 						</li>
 					</colorChannels>
-
-
 				</alienPartGenerator>
 				<disallowedTraits>
 					<li>
@@ -608,6 +606,7 @@
 			<makesFootprints>true</makesFootprints>
 			<lifeExpectancy>850</lifeExpectancy>
 			<leatherDef>Leather_Light</leatherDef>
+			<useMeatFrom>Dragonian_Female</useMeatFrom>
 			<nameCategory>HumanStandard</nameCategory>
 			<trainability>Advanced</trainability>
 			<nuzzleMtbHours>12</nuzzleMtbHours>
@@ -682,6 +681,8 @@
 			</ageGenerationCurve>
 			<hediffGiverSets>
 				<li>OrganicStandard</li>
+				<li>Human</li>
+				<li>Dragonian_Inate</li>
 			</hediffGiverSets>
 		</race>
 		<recipes>   
