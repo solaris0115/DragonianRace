@@ -165,13 +165,13 @@
 				<amount>-1</amount>
 			</li>
 		</skillGains>
-		<!-- <workDisables>			
+		<workDisables>			
 			<li>Caring</li>
 			<li>Intellectual</li>
 			<li>Artistic</li>
 			<li>Cooking</li>
 			<li>Crafting</li>
-		</workDisables> -->
+		</workDisables>
 		<spawnCategories>
 			<li>DragonianStory</li>
 			<li>DragonianWild</li>
