@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HediffGiverSetDef>
+		<defName>Dragonian_Inate</defName>
+		<hediffGivers>
+			<li Class="HediffGiver_Birthday">
+				<hediff>Dragonian_AutoRecovery</hediff>
+				<ageFractionChanceCurve>
+					<points>
+						<li>(0, 1)</li>
+					</points>
+				</ageFractionChanceCurve>
+			</li>
+		</hediffGivers>
+	</HediffGiverSetDef>
+</Defs>

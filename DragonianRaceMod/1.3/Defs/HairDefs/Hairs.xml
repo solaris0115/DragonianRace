@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>	
+	<HairDef>
+		<defName>DR_Male_Hair</defName>
+		<label>short cut</label>
+		<hairGender>Male</hairGender>
+		<texPath>Hair/DR_Male_Hair</texPath>
+		<styleTags>
+			<li>DR_Hair_Male</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_TwinDownBindFront</defName>
+		<label>twin down bind(front)</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_TwinDownBindFront</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_TwinDownBindBoth</defName>
+		<label>twin down bind</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_TwinDownBindBoth</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_TwinDownBindBack</defName>
+		<label>twin down bind(back)</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_TwinDownBindBack</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Twintail</defName>
+		<label>twin tail</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Twintail</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_TwinDownBind</defName>
+		<label>twin down bind</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_TwinDownBind</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Long</defName>
+		<label>long</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Long</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Japan</defName>
+		<label>roll up hair</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Japan</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Wavelongop</defName>
+		<label>wavelong op</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Wavelongop</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Twinlongop</defName>
+		<label>twinlong op</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Twinlongop</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Twinlong</defName>
+		<label>twinlong</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Twinlong</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Wavelong</defName>
+		<label>wavelong</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Wavelong</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Middlecut</defName>
+		<label>middlecut</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Middlecut</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+	<HairDef>
+		<defName>DR_Short</defName>
+		<label>shortcut</label>
+		<hairGender>Female</hairGender>
+		<texPath>Hair/DR_Short</texPath>
+		<styleTags>
+			<li>DR_Hair</li>
+		</styleTags>
+	</HairDef>
+</Defs>
