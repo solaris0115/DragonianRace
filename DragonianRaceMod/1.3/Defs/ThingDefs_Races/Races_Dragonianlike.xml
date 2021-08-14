@@ -49,12 +49,68 @@
 					</colorChannels>
 				</alienPartGenerator>
 				<disallowedTraits>
-					<li>
-						<defName>AnnoyingVoice</defName>
-					</li>
-					<li>
-						<defName>CreepyBreathing</defName>
-					</li>
+			<li>
+				<defName>AnnoyingVoice</defName>
+			</li>
+			<li>
+				<defName>CreepyBreathing</defName>
+			</li>
+			<li>
+				<defName>Beauty</defName>
+				<degree>-2</degree>
+			</li>
+			<li>
+				<defName>Beauty</defName>
+				<degree>-1</degree>
+			</li>
+			<li>
+				<defName>DrugDesire</defName>
+			</li>
+			<li>
+				<defName>Nerves</defName>
+			</li>
+			<li>
+				<defName>Neurotic</defName>
+			</li>
+			<li>
+				<defName>Industriousness</defName>
+			</li>
+			<li>
+				<defName>ShootingAccuracy</defName>
+			</li>
+			<li>
+				<defName>Bloodlust</defName>
+			</li>
+			<li>
+				<defName>Abrasive</defName>
+			</li>
+			<li>
+				<defName>TooSmart</defName>
+			</li>
+			<li>
+				<defName>Greedy</defName>
+			</li>
+			<li>
+				<defName>Jealous</defName>
+			</li>
+			<li>
+				<defName>Ascetic</defName>
+			</li>
+			<li>
+				<defName>Pyromaniac</defName>
+			</li>
+			<li>
+				<defName>Transhumanist</defName>
+			</li>
+			<li>
+				<defName>BodyPurist</defName>
+			</li>
+			<li>
+				<defName>DislikesMen</defName>
+			</li>
+			<li>
+				<defName>DislikesWomen</defName>
+			</li>
 				</disallowedTraits>
 				<forcedRaceTraitEntries> 
 					<li>
@@ -449,12 +505,68 @@
 					</colorChannels>
 				</alienPartGenerator>
 				<disallowedTraits>
-					<li>
-						<defName>AnnoyingVoice</defName>
-					</li>
-					<li>
-						<defName>CreepyBreathing</defName>
-					</li>
+			<li>
+				<defName>Beauty</defName>
+				<degree>-2</degree>
+			</li>
+			<li>
+				<defName>Beauty</defName>
+				<degree>-1</degree>
+			</li>
+			<li>
+				<defName>AnnoyingVoice</defName>
+			</li>
+			<li>
+				<defName>CreepyBreathing</defName>
+			</li>
+			<li>
+				<defName>DrugDesire</defName>
+			</li>
+			<li>
+				<defName>Nerves</defName>
+			</li>
+			<li>
+				<defName>Neurotic</defName>
+			</li>
+			<li>
+				<defName>Industriousness</defName>
+			</li>
+			<li>
+				<defName>ShootingAccuracy</defName>
+			</li>
+			<li>
+				<defName>Bloodlust</defName>
+			</li>
+			<li>
+				<defName>Abrasive</defName>
+			</li>
+			<li>
+				<defName>TooSmart</defName>
+			</li>
+			<li>
+				<defName>Greedy</defName>
+			</li>
+			<li>
+				<defName>Jealous</defName>
+			</li>
+			<li>
+				<defName>Ascetic</defName>
+			</li>
+			<li>
+				<defName>Pyromaniac</defName>
+			</li>
+			<li>
+				<defName>Transhumanist</defName>
+			</li>
+			<li>
+				<defName>BodyPurist</defName>
+			</li>
+			<li>
+				<defName>DislikesMen</defName>
+			</li>
+			<li>
+				<defName>DislikesWomen</defName>
+			</li>
 				</disallowedTraits>
 				<forcedRaceTraitEntries> 
 					<li>
@@ -482,6 +594,35 @@
 					<li>DR_Hair_Male</li>
 				</styleTags>        
 			</hairSettings> -->
+			<styleSettings>
+				<li>
+				<key>HairDef</key>
+				<value>
+					<hasStyle>true</hasStyle>
+					<styleTagsOverride>
+						<li>DR_Hair</li>
+					</styleTagsOverride>
+				</value>
+				</li>
+				<li>
+				<key>TattooDef</key>
+					<value>
+				<hasStyle>false</hasStyle>
+					<!-- <styleTags> -->
+					<!-- <li>Minimal</li> -->
+					<!-- </styleTags> -->
+					</value>
+				</li>
+				<li>
+					<key>BeardDef</key>
+					<value>
+						<hasStyle>false</hasStyle>
+						<!-- <styleTags> -->
+						<!-- <li>Minimal</li> -->
+						<!-- </styleTags> -->
+					</value>
+				</li>
+			</styleSettings>
 			<relationSettings>
 			</relationSettings>
 			<raceRestriction>
