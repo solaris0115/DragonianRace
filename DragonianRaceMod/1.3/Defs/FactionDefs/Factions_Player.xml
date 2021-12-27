@@ -1,26 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <FactionDef>
-    <defName>Dragonians_Hidden</defName>
-    <label>dragonians_hidden</label>
-    <pawnSingular>dragonian</pawnSingular>
-    <pawnsPlural>dragonians</pawnsPlural>
-    <requiredCountAtGameStart>1</requiredCountAtGameStart>
-    <fixedName>Dragonians</fixedName>
-    <factionIconPath>World/WorldObjects/Expanding/Sites/Manhunters</factionIconPath>
-    <hidden>true</hidden>
-    <autoFlee>false</autoFlee>
-    <techLevel>Animal</techLevel>
-    <hairTags>
-      <li>DR_Hair</li>
-      <li>DR_Hair_Male</li>
-    </hairTags>
-    <backstoryFilters>
-      <li>
-        <categories>
-          <li>DragonianStory</li>
-        </categories>
-      </li>
-    </backstoryFilters>
-  </FactionDef>
+	<FactionDef>
+		<defName>Dragonians_Hidden</defName>
+		<label>dragonians_hidden</label>
+		<pawnSingular>dragonian</pawnSingular>
+		<pawnsPlural>dragonians</pawnsPlural>
+		<requiredCountAtGameStart>1</requiredCountAtGameStart>
+		<fixedName>Dragonians</fixedName>
+		<factionIconPath>World/WorldObjects/Expanding/Sites/Manhunters</factionIconPath>
+		<hidden>true</hidden>
+		<autoFlee>false</autoFlee>
+		<techLevel>Animal</techLevel>
+		<backstoryFilters>
+			<li>
+				<categories>
+					<li>DragonianStory</li>
+				</categories>
+			</li>
+		</backstoryFilters>
+		<raidLootValueFromPointsCurve>
+			<points>
+				<li>(35,     15)</li>
+				<li>(100,   120)</li>
+				<li>(1000,  500)</li>
+				<li>(2000,  800)</li>
+				<li>(4000, 1000)</li>
+			</points>
+		</raidLootValueFromPointsCurve>
+	</FactionDef>
 </Defs>

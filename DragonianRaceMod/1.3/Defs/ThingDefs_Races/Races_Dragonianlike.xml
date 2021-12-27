@@ -12,6 +12,7 @@
 				<maxDamageForSocialfight>8</maxDamageForSocialfight>
 				<humanRecipeImport>true</humanRecipeImport>
 				<alienPartGenerator>
+					<atlasScale>4</atlasScale>
 					<aliencrowntypes>
 						<li>Average_Normal</li>
 					</aliencrowntypes>
@@ -72,13 +73,29 @@
 					<skeleton>Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin</skeleton>
 				</li>
 			</graphicPaths>
-			<hairSettings>
-				<hasHair>true</hasHair>
-				<getsGreyAt>750</getsGreyAt> 
-				<hairTags>
-					<li>DR_Hair</li>
-				</hairTags>        
-			</hairSettings>
+			<styleSettings>
+				<li>
+					<key>HairDef</key>
+					<value>
+						<hasStyle>true</hasStyle>
+						<styleTagsOverride>
+							<li>DR_Hair</li>
+						</styleTagsOverride>
+					</value>
+				</li>
+				<li>
+					<key>BeardDef</key>
+					<value>
+						<hasStyle>false</hasStyle>
+					</value>
+				</li>
+				<li>
+					<key>TattooDef</key>
+					<value>
+						<hasStyle>false</hasStyle>
+					</value>
+				</li>
+			</styleSettings>
 			<relationSettings>
 			</relationSettings>
 			<raceRestriction>
@@ -370,8 +387,7 @@
 			<li>AnimalExotic</li>
 		</tradeTags>
 	</AlienRace.ThingDef_AlienRace>
-
-	<AlienRace.ThingDef_AlienRace ParentName="DR_PawnBase">
+	<AlienRace.ThingDef_AlienRace ParentName="BasePawn">
 		<defName>Dragonian_Male</defName>
 		<label>Dragonian</label>
 		<description>A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.</description>
@@ -383,6 +399,7 @@
 				<maxDamageForSocialfight>8</maxDamageForSocialfight>
 				<humanRecipeImport>true</humanRecipeImport>
 				<alienPartGenerator>
+					<atlasScale>4</atlasScale>
 					<aliencrowntypes>
 						<li>Male_Average</li>
 					</aliencrowntypes>
@@ -446,13 +463,29 @@
 					<skeleton>Things/Pawn/Humanlike/Bodies/Dessicated/Dessicated_Thin</skeleton>
 				</li>
 			</graphicPaths>
-			<hairSettings>
-				<hasHair>true</hasHair>
-				<getsGreyAt>750</getsGreyAt> 
-				<hairTags>
-					<li>DR_Hair_Male</li>
-				</hairTags>        
-			</hairSettings>
+			<styleSettings>
+				<li>
+					<key>HairDef</key>
+					<value>
+						<hasStyle>true</hasStyle>
+						<styleTagsOverride>
+							<li>DR_Hair_Male</li>
+						</styleTagsOverride>
+					</value>
+				</li>
+				<li>
+					<key>BeardDef</key>
+					<value>
+						<hasStyle>false</hasStyle>
+					</value>
+				</li>
+				<li>
+					<key>TattooDef</key>
+					<value>
+						<hasStyle>false</hasStyle>
+					</value>
+				</li>
+			</styleSettings>
 			<relationSettings>
 			</relationSettings>
 			<raceRestriction>
@@ -506,7 +539,7 @@
 			<ArmorRating_Blunt>0.40</ArmorRating_Blunt>
 			<ArmorRating_Heat>0.20</ArmorRating_Heat>
 			<Flammability>0.7</Flammability>
-
+			<Mass>50</Mass>
 			<ToxicSensitivity>0.6</ToxicSensitivity>
 			<EatingSpeed>1.1</EatingSpeed>
 			<MeatAmount>45</MeatAmount>
